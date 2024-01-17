@@ -1,0 +1,4991 @@
+{
+    "artisan_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "emp_tea_leaf",
+                "count": 2
+            },
+            {
+                "name": "mooberry",
+                "count": 2
+            },
+            {
+                "name": "crimson_milk",
+                "count": 1
+            }
+        ]
+    },
+    "attack_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "robusta_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "blackberry",
+                "count": 1
+            }
+        ]
+    },
+    "blessed_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "emp_tea_leaf",
+                "count": 2
+            },
+            {
+                "name": "spaceberry",
+                "count": 2
+            },
+            {
+                "name": "holy_milk",
+                "count": 1
+            }
+        ]
+    },
+    "brewing_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "black_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "orange",
+                "count": 1
+            }
+        ]
+    },
+    "channeling_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "fieriosa_coffee_bean",
+                "count": 2
+            },
+            {
+                "name": "dragon_fruit",
+                "count": 1
+            },
+            {
+                "name": "holy_milk",
+                "count": 1
+            }
+        ]
+    },
+    "cheesesmithing_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "burble_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "orange",
+                "count": 1
+            }
+        ]
+    },
+    "cooking_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "black_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "count": 1
+            }
+        ]
+    },
+    "crafting_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "burble_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "plum",
+                "count": 1
+            }
+        ]
+    },
+    "critical_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "spacia_coffee_bean",
+                "count": 2
+            },
+            {
+                "name": "star_fruit",
+                "count": 1
+            },
+            {
+                "name": "holy_milk",
+                "count": 1
+            }
+        ]
+    },
+    "defense_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "robusta_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "blueberry",
+                "count": 1
+            }
+        ]
+    },
+    "efficiency_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "red_tea_leaf",
+                "count": 2
+            },
+            {
+                "name": "marsberry",
+                "count": 2
+            },
+            {
+                "name": "rainbow_milk",
+                "count": 1
+            }
+        ]
+    },
+    "enhancing_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "black_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "plum",
+                "count": 1
+            }
+        ]
+    },
+    "foraging_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "green_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "orange",
+                "count": 1
+            }
+        ]
+    },
+    "gathering_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "green_tea_leaf",
+                "count": 2
+            },
+            {
+                "name": "blueberry",
+                "count": 2
+            },
+            {
+                "name": "verdant_milk",
+                "count": 1
+            }
+        ]
+    },
+    "gourmet_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "black_tea_leaf",
+                "count": 2
+            },
+            {
+                "name": "blackberry",
+                "count": 2
+            },
+            {
+                "name": "azure_milk",
+                "count": 1
+            }
+        ]
+    },
+    "intelligence_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "arabica_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "blackberry",
+                "count": 1
+            }
+        ]
+    },
+    "lucky_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "excelsa_coffee_bean",
+                "count": 2
+            },
+            {
+                "name": "peach",
+                "count": 1
+            },
+            {
+                "name": "crimson_milk",
+                "count": 1
+            }
+        ]
+    },
+    "magic_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "liberica_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "mooberry",
+                "count": 1
+            }
+        ]
+    },
+    "milking_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "green_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "count": 1
+            }
+        ]
+    },
+    "power_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "liberica_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "blackberry",
+                "count": 1
+            }
+        ]
+    },
+    "processing_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "moolong_tea_leaf",
+                "count": 2
+            },
+            {
+                "name": "mooberry",
+                "count": 2
+            },
+            {
+                "name": "rainbow_cheese",
+                "count": 1
+            }
+        ]
+    },
+    "ranged_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "liberica_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "strawberry",
+                "count": 1
+            }
+        ]
+    },
+    "stamina_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "arabica_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "blueberry",
+                "count": 1
+            }
+        ]
+    },
+    "super_attack_coffee": {
+        "requires": "attack_coffee",
+        "materials": [
+            {
+                "name": "fieriosa_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "marsberry",
+                "count": 1
+            },
+            {
+                "name": "crushed_amber",
+                "count": 1
+            }
+        ]
+    },
+    "super_brewing_tea": {
+        "requires": "brewing_tea",
+        "materials": [
+            {
+                "name": "red_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "dragon_fruit",
+                "count": 1
+            },
+            {
+                "name": "crushed_amber",
+                "count": 1
+            }
+        ]
+    },
+    "super_cheesesmithing_tea": {
+        "requires": "cheesesmithing_tea",
+        "materials": [
+            {
+                "name": "emp_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "peach",
+                "count": 1
+            },
+            {
+                "name": "crushed_garnet",
+                "count": 1
+            }
+        ]
+    },
+    "super_cooking_tea": {
+        "requires": "cooking_tea",
+        "materials": [
+            {
+                "name": "red_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "peach",
+                "count": 1
+            },
+            {
+                "name": "crushed_amber",
+                "count": 1
+            }
+        ]
+    },
+    "super_crafting_tea": {
+        "requires": "crafting_tea",
+        "materials": [
+            {
+                "name": "emp_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "dragon_fruit",
+                "count": 1
+            },
+            {
+                "name": "crushed_jade",
+                "count": 1
+            }
+        ]
+    },
+    "super_defense_coffee": {
+        "requires": "defense_coffee",
+        "materials": [
+            {
+                "name": "fieriosa_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "mooberry",
+                "count": 1
+            },
+            {
+                "name": "crushed_amber",
+                "count": 1
+            }
+        ]
+    },
+    "super_enhancing_tea": {
+        "requires": "enhancing_tea",
+        "materials": [
+            {
+                "name": "red_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "star_fruit",
+                "count": 1
+            },
+            {
+                "name": "crushed_amber",
+                "count": 1
+            }
+        ]
+    },
+    "super_foraging_tea": {
+        "requires": "foraging_tea",
+        "materials": [
+            {
+                "name": "moolong_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "peach",
+                "count": 1
+            },
+            {
+                "name": "crushed_pearl",
+                "count": 1
+            }
+        ]
+    },
+    "super_intelligence_coffee": {
+        "requires": "intelligence_coffee",
+        "materials": [
+            {
+                "name": "excelsa_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "mooberry",
+                "count": 1
+            },
+            {
+                "name": "crushed_pearl",
+                "count": 1
+            }
+        ]
+    },
+    "super_magic_coffee": {
+        "requires": "magic_coffee",
+        "materials": [
+            {
+                "name": "spacia_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "spaceberry",
+                "count": 1
+            },
+            {
+                "name": "crushed_amethyst",
+                "count": 1
+            }
+        ]
+    },
+    "super_milking_tea": {
+        "requires": "milking_tea",
+        "materials": [
+            {
+                "name": "moolong_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "plum",
+                "count": 1
+            },
+            {
+                "name": "crushed_pearl",
+                "count": 1
+            }
+        ]
+    },
+    "super_power_coffee": {
+        "requires": "power_coffee",
+        "materials": [
+            {
+                "name": "spacia_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "mooberry",
+                "count": 1
+            },
+            {
+                "name": "crushed_garnet",
+                "count": 1
+            }
+        ]
+    },
+    "super_ranged_coffee": {
+        "requires": "ranged_coffee",
+        "materials": [
+            {
+                "name": "spacia_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "marsberry",
+                "count": 1
+            },
+            {
+                "name": "crushed_jade",
+                "count": 1
+            }
+        ]
+    },
+    "super_stamina_coffee": {
+        "requires": "stamina_coffee",
+        "materials": [
+            {
+                "name": "excelsa_coffee_bean",
+                "count": 1
+            },
+            {
+                "name": "strawberry",
+                "count": 1
+            },
+            {
+                "name": "crushed_pearl",
+                "count": 1
+            }
+        ]
+    },
+    "super_tailoring_tea": {
+        "requires": "tailoring_tea",
+        "materials": [
+            {
+                "name": "emp_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "star_fruit",
+                "count": 1
+            },
+            {
+                "name": "crushed_amethyst",
+                "count": 1
+            }
+        ]
+    },
+    "super_woodcutting_tea": {
+        "requires": "woodcutting_tea",
+        "materials": [
+            {
+                "name": "moolong_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "dragon_fruit",
+                "count": 1
+            },
+            {
+                "name": "crushed_pearl",
+                "count": 1
+            }
+        ]
+    },
+    "swiftness_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "fieriosa_coffee_bean",
+                "count": 2
+            },
+            {
+                "name": "dragon_fruit",
+                "count": 1
+            },
+            {
+                "name": "rainbow_milk",
+                "count": 1
+            }
+        ]
+    },
+    "tailoring_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "burble_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "peach",
+                "count": 1
+            }
+        ]
+    },
+    "wisdom_coffee": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "liberica_coffee_bean",
+                "count": 2
+            },
+            {
+                "name": "plum",
+                "count": 1
+            },
+            {
+                "name": "burble_milk",
+                "count": 1
+            }
+        ]
+    },
+    "wisdom_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "burble_tea_leaf",
+                "count": 2
+            },
+            {
+                "name": "strawberry",
+                "count": 2
+            },
+            {
+                "name": "burble_milk",
+                "count": 1
+            }
+        ]
+    },
+    "woodcutting_tea": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "green_tea_leaf",
+                "count": 1
+            },
+            {
+                "name": "plum",
+                "count": 1
+            }
+        ]
+    },
+    "azure_boots": {
+        "requires": "verdant_boots",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 16
+            }
+        ]
+    },
+    "azure_brush": {
+        "requires": "verdant_brush",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 24
+            },
+            {
+                "name": "cedar_log",
+                "count": 16
+            }
+        ]
+    },
+    "azure_buckler": {
+        "requires": "verdant_buckler",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 24
+            }
+        ]
+    },
+    "azure_bulwark": {
+        "requires": "verdant_bulwark",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 48
+            }
+        ]
+    },
+    "azure_cheese": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "azure_milk",
+                "count": 2
+            }
+        ]
+    },
+    "azure_chisel": {
+        "requires": "verdant_chisel",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 24
+            },
+            {
+                "name": "cedar_log",
+                "count": 16
+            }
+        ]
+    },
+    "azure_enhancer": {
+        "requires": "verdant_enhancer",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 28
+            }
+        ]
+    },
+    "azure_gauntlets": {
+        "requires": "verdant_gauntlets",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 16
+            }
+        ]
+    },
+    "azure_hammer": {
+        "requires": "verdant_hammer",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 24
+            },
+            {
+                "name": "cedar_log",
+                "count": 16
+            }
+        ]
+    },
+    "azure_hatchet": {
+        "requires": "verdant_hatchet",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 24
+            },
+            {
+                "name": "cedar_log",
+                "count": 16
+            }
+        ]
+    },
+    "azure_helmet": {
+        "requires": "verdant_helmet",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 20
+            }
+        ]
+    },
+    "azure_mace": {
+        "requires": "verdant_mace",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 28
+            },
+            {
+                "name": "cedar_log",
+                "count": 32
+            }
+        ]
+    },
+    "azure_needle": {
+        "requires": "verdant_needle",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 28
+            }
+        ]
+    },
+    "azure_plate_body": {
+        "requires": "verdant_plate_body",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 32
+            }
+        ]
+    },
+    "azure_plate_legs": {
+        "requires": "verdant_plate_legs",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 28
+            }
+        ]
+    },
+    "azure_pot": {
+        "requires": "verdant_pot",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 28
+            }
+        ]
+    },
+    "azure_shears": {
+        "requires": "verdant_shears",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 24
+            },
+            {
+                "name": "cedar_log",
+                "count": 16
+            }
+        ]
+    },
+    "azure_spatula": {
+        "requires": "verdant_spatula",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 28
+            }
+        ]
+    },
+    "azure_spear": {
+        "requires": "verdant_spear",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 28
+            },
+            {
+                "name": "cedar_log",
+                "count": 32
+            }
+        ]
+    },
+    "azure_sword": {
+        "requires": "verdant_sword",
+        "materials": [
+            {
+                "name": "azure_cheese",
+                "count": 36
+            }
+        ]
+    },
+    "black_bear_shoes": {
+        "requires": "rainbow_boots",
+        "materials": [
+            {
+                "name": "black_bear_fluff",
+                "count": 6
+            }
+        ]
+    },
+    "burble_boots": {
+        "requires": "azure_boots",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 24
+            }
+        ]
+    },
+    "burble_brush": {
+        "requires": "azure_brush",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 36
+            },
+            {
+                "name": "purpleheart_log",
+                "count": 24
+            }
+        ]
+    },
+    "burble_buckler": {
+        "requires": "azure_buckler",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 36
+            }
+        ]
+    },
+    "burble_bulwark": {
+        "requires": "azure_bulwark",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 72
+            }
+        ]
+    },
+    "burble_cheese": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "burble_milk",
+                "count": 2
+            }
+        ]
+    },
+    "burble_chisel": {
+        "requires": "azure_chisel",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 36
+            },
+            {
+                "name": "purpleheart_log",
+                "count": 24
+            }
+        ]
+    },
+    "burble_enhancer": {
+        "requires": "azure_enhancer",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 42
+            }
+        ]
+    },
+    "burble_gauntlets": {
+        "requires": "azure_gauntlets",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 24
+            }
+        ]
+    },
+    "burble_hammer": {
+        "requires": "azure_hammer",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 36
+            },
+            {
+                "name": "purpleheart_log",
+                "count": 24
+            }
+        ]
+    },
+    "burble_hatchet": {
+        "requires": "azure_hatchet",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 36
+            },
+            {
+                "name": "purpleheart_log",
+                "count": 24
+            }
+        ]
+    },
+    "burble_helmet": {
+        "requires": "azure_helmet",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 30
+            }
+        ]
+    },
+    "burble_mace": {
+        "requires": "azure_mace",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 42
+            },
+            {
+                "name": "purpleheart_log",
+                "count": 48
+            }
+        ]
+    },
+    "burble_needle": {
+        "requires": "azure_needle",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 42
+            }
+        ]
+    },
+    "burble_plate_body": {
+        "requires": "azure_plate_body",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 48
+            }
+        ]
+    },
+    "burble_plate_legs": {
+        "requires": "azure_plate_legs",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 42
+            }
+        ]
+    },
+    "burble_pot": {
+        "requires": "azure_pot",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 42
+            }
+        ]
+    },
+    "burble_shears": {
+        "requires": "azure_shears",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 36
+            },
+            {
+                "name": "purpleheart_log",
+                "count": 24
+            }
+        ]
+    },
+    "burble_spatula": {
+        "requires": "azure_spatula",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 42
+            }
+        ]
+    },
+    "burble_spear": {
+        "requires": "azure_spear",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 42
+            },
+            {
+                "name": "purpleheart_log",
+                "count": 48
+            }
+        ]
+    },
+    "burble_sword": {
+        "requires": "azure_sword",
+        "materials": [
+            {
+                "name": "burble_cheese",
+                "count": 54
+            }
+        ]
+    },
+    "cheese": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "milk",
+                "count": 2
+            }
+        ]
+    },
+    "cheese_boots": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 8
+            }
+        ]
+    },
+    "cheese_brush": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 12
+            },
+            {
+                "name": "log",
+                "count": 8
+            }
+        ]
+    },
+    "cheese_buckler": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 12
+            }
+        ]
+    },
+    "cheese_bulwark": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 24
+            }
+        ]
+    },
+    "cheese_chisel": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 12
+            },
+            {
+                "name": "log",
+                "count": 8
+            }
+        ]
+    },
+    "cheese_enhancer": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 14
+            }
+        ]
+    },
+    "cheese_gauntlets": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 8
+            }
+        ]
+    },
+    "cheese_hammer": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 12
+            },
+            {
+                "name": "log",
+                "count": 8
+            }
+        ]
+    },
+    "cheese_hatchet": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 12
+            },
+            {
+                "name": "log",
+                "count": 8
+            }
+        ]
+    },
+    "cheese_helmet": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 10
+            }
+        ]
+    },
+    "cheese_mace": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 14
+            },
+            {
+                "name": "log",
+                "count": 16
+            }
+        ]
+    },
+    "cheese_needle": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 14
+            }
+        ]
+    },
+    "cheese_plate_body": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 16
+            }
+        ]
+    },
+    "cheese_plate_legs": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 14
+            }
+        ]
+    },
+    "cheese_pot": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 14
+            }
+        ]
+    },
+    "cheese_shears": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 12
+            },
+            {
+                "name": "log",
+                "count": 8
+            }
+        ]
+    },
+    "cheese_spatula": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 14
+            }
+        ]
+    },
+    "cheese_spear": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 14
+            },
+            {
+                "name": "log",
+                "count": 16
+            }
+        ]
+    },
+    "cheese_sword": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cheese",
+                "count": 18
+            }
+        ]
+    },
+    "colossus_plate_body": {
+        "requires": "holy_plate_body",
+        "materials": [
+            {
+                "name": "colossus_core",
+                "count": 10
+            }
+        ]
+    },
+    "colossus_plate_legs": {
+        "requires": "holy_plate_legs",
+        "materials": [
+            {
+                "name": "colossus_core",
+                "count": 8
+            }
+        ]
+    },
+    "crimson_boots": {
+        "requires": "burble_boots",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 36
+            }
+        ]
+    },
+    "crimson_brush": {
+        "requires": "burble_brush",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 54
+            },
+            {
+                "name": "ginkgo_log",
+                "count": 36
+            }
+        ]
+    },
+    "crimson_buckler": {
+        "requires": "burble_buckler",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 54
+            }
+        ]
+    },
+    "crimson_bulwark": {
+        "requires": "burble_bulwark",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 108
+            }
+        ]
+    },
+    "crimson_cheese": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "crimson_milk",
+                "count": 2
+            }
+        ]
+    },
+    "crimson_chisel": {
+        "requires": "burble_chisel",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 54
+            },
+            {
+                "name": "ginkgo_log",
+                "count": 36
+            }
+        ]
+    },
+    "crimson_enhancer": {
+        "requires": "burble_enhancer",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 63
+            }
+        ]
+    },
+    "crimson_gauntlets": {
+        "requires": "burble_gauntlets",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 36
+            }
+        ]
+    },
+    "crimson_hammer": {
+        "requires": "burble_hammer",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 54
+            },
+            {
+                "name": "ginkgo_log",
+                "count": 36
+            }
+        ]
+    },
+    "crimson_hatchet": {
+        "requires": "burble_hatchet",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 54
+            },
+            {
+                "name": "ginkgo_log",
+                "count": 36
+            }
+        ]
+    },
+    "crimson_helmet": {
+        "requires": "burble_helmet",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 45
+            }
+        ]
+    },
+    "crimson_mace": {
+        "requires": "burble_mace",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 63
+            },
+            {
+                "name": "ginkgo_log",
+                "count": 72
+            }
+        ]
+    },
+    "crimson_needle": {
+        "requires": "burble_needle",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 63
+            }
+        ]
+    },
+    "crimson_plate_body": {
+        "requires": "burble_plate_body",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 72
+            }
+        ]
+    },
+    "crimson_plate_legs": {
+        "requires": "burble_plate_legs",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 63
+            }
+        ]
+    },
+    "crimson_pot": {
+        "requires": "burble_pot",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 63
+            }
+        ]
+    },
+    "crimson_shears": {
+        "requires": "burble_shears",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 54
+            },
+            {
+                "name": "ginkgo_log",
+                "count": 36
+            }
+        ]
+    },
+    "crimson_spatula": {
+        "requires": "burble_spatula",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 63
+            }
+        ]
+    },
+    "crimson_spear": {
+        "requires": "burble_spear",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 63
+            },
+            {
+                "name": "ginkgo_log",
+                "count": 72
+            }
+        ]
+    },
+    "crimson_sword": {
+        "requires": "burble_sword",
+        "materials": [
+            {
+                "name": "crimson_cheese",
+                "count": 81
+            }
+        ]
+    },
+    "demonic_plate_body": {
+        "requires": "holy_plate_body",
+        "materials": [
+            {
+                "name": "demonic_core",
+                "count": 10
+            }
+        ]
+    },
+    "demonic_plate_legs": {
+        "requires": "holy_plate_legs",
+        "materials": [
+            {
+                "name": "demonic_core",
+                "count": 8
+            }
+        ]
+    },
+    "granite_bludgeon": {
+        "requires": "holy_mace",
+        "materials": [
+            {
+                "name": "living_granite",
+                "count": 20
+            }
+        ]
+    },
+    "grizzly_bear_shoes": {
+        "requires": "rainbow_boots",
+        "materials": [
+            {
+                "name": "grizzly_bear_fluff",
+                "count": 6
+            }
+        ]
+    },
+    "holy_boots": {
+        "requires": "rainbow_boots",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 72
+            }
+        ]
+    },
+    "holy_brush": {
+        "requires": "rainbow_brush",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 108
+            },
+            {
+                "name": "arcane_log",
+                "count": 72
+            }
+        ]
+    },
+    "holy_buckler": {
+        "requires": "rainbow_buckler",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 108
+            }
+        ]
+    },
+    "holy_bulwark": {
+        "requires": "rainbow_bulwark",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 216
+            }
+        ]
+    },
+    "holy_cheese": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "holy_milk",
+                "count": 2
+            }
+        ]
+    },
+    "holy_chisel": {
+        "requires": "rainbow_chisel",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 108
+            },
+            {
+                "name": "arcane_log",
+                "count": 72
+            }
+        ]
+    },
+    "holy_enhancer": {
+        "requires": "rainbow_enhancer",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 126
+            }
+        ]
+    },
+    "holy_gauntlets": {
+        "requires": "rainbow_gauntlets",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 72
+            }
+        ]
+    },
+    "holy_hammer": {
+        "requires": "rainbow_hammer",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 108
+            },
+            {
+                "name": "arcane_log",
+                "count": 72
+            }
+        ]
+    },
+    "holy_hatchet": {
+        "requires": "rainbow_hatchet",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 108
+            },
+            {
+                "name": "arcane_log",
+                "count": 72
+            }
+        ]
+    },
+    "holy_helmet": {
+        "requires": "rainbow_helmet",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 90
+            }
+        ]
+    },
+    "holy_mace": {
+        "requires": "rainbow_mace",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 126
+            },
+            {
+                "name": "arcane_log",
+                "count": 144
+            }
+        ]
+    },
+    "holy_needle": {
+        "requires": "rainbow_needle",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 126
+            }
+        ]
+    },
+    "holy_plate_body": {
+        "requires": "rainbow_plate_body",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 144
+            }
+        ]
+    },
+    "holy_plate_legs": {
+        "requires": "rainbow_plate_legs",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 126
+            }
+        ]
+    },
+    "holy_pot": {
+        "requires": "rainbow_pot",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 126
+            }
+        ]
+    },
+    "holy_shears": {
+        "requires": "rainbow_shears",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 108
+            },
+            {
+                "name": "arcane_log",
+                "count": 72
+            }
+        ]
+    },
+    "holy_spatula": {
+        "requires": "rainbow_spatula",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 126
+            }
+        ]
+    },
+    "holy_spear": {
+        "requires": "rainbow_spear",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 126
+            },
+            {
+                "name": "arcane_log",
+                "count": 144
+            }
+        ]
+    },
+    "holy_sword": {
+        "requires": "rainbow_sword",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 162
+            }
+        ]
+    },
+    "magnetic_gloves": {
+        "requires": "holy_gauntlets",
+        "materials": [
+            {
+                "name": "magnet",
+                "count": 10
+            }
+        ]
+    },
+    "panda_gloves": {
+        "requires": "rainbow_gauntlets",
+        "materials": [
+            {
+                "name": "panda_fluff",
+                "count": 6
+            }
+        ]
+    },
+    "pincer_gloves": {
+        "requires": "azure_gauntlets",
+        "materials": [
+            {
+                "name": "crab_pincer",
+                "count": 2
+            }
+        ]
+    },
+    "polar_bear_shoes": {
+        "requires": "rainbow_boots",
+        "materials": [
+            {
+                "name": "polar_bear_fluff",
+                "count": 6
+            }
+        ]
+    },
+    "rainbow_boots": {
+        "requires": "crimson_boots",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 52
+            }
+        ]
+    },
+    "rainbow_brush": {
+        "requires": "crimson_brush",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 78
+            },
+            {
+                "name": "redwood_log",
+                "count": 52
+            }
+        ]
+    },
+    "rainbow_buckler": {
+        "requires": "crimson_buckler",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 78
+            }
+        ]
+    },
+    "rainbow_bulwark": {
+        "requires": "crimson_bulwark",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 156
+            }
+        ]
+    },
+    "rainbow_cheese": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rainbow_milk",
+                "count": 2
+            }
+        ]
+    },
+    "rainbow_chisel": {
+        "requires": "crimson_chisel",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 78
+            },
+            {
+                "name": "redwood_log",
+                "count": 52
+            }
+        ]
+    },
+    "rainbow_enhancer": {
+        "requires": "crimson_enhancer",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 91
+            }
+        ]
+    },
+    "rainbow_gauntlets": {
+        "requires": "crimson_gauntlets",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 52
+            }
+        ]
+    },
+    "rainbow_hammer": {
+        "requires": "crimson_hammer",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 78
+            },
+            {
+                "name": "redwood_log",
+                "count": 52
+            }
+        ]
+    },
+    "rainbow_hatchet": {
+        "requires": "crimson_hatchet",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 78
+            },
+            {
+                "name": "redwood_log",
+                "count": 52
+            }
+        ]
+    },
+    "rainbow_helmet": {
+        "requires": "crimson_helmet",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 65
+            }
+        ]
+    },
+    "rainbow_mace": {
+        "requires": "crimson_mace",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 91
+            },
+            {
+                "name": "redwood_log",
+                "count": 104
+            }
+        ]
+    },
+    "rainbow_needle": {
+        "requires": "crimson_needle",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 91
+            }
+        ]
+    },
+    "rainbow_plate_body": {
+        "requires": "crimson_plate_body",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 104
+            }
+        ]
+    },
+    "rainbow_plate_legs": {
+        "requires": "crimson_plate_legs",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 91
+            }
+        ]
+    },
+    "rainbow_pot": {
+        "requires": "crimson_pot",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 91
+            }
+        ]
+    },
+    "rainbow_shears": {
+        "requires": "crimson_shears",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 78
+            },
+            {
+                "name": "redwood_log",
+                "count": 52
+            }
+        ]
+    },
+    "rainbow_spatula": {
+        "requires": "crimson_spatula",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 91
+            }
+        ]
+    },
+    "rainbow_spear": {
+        "requires": "crimson_spear",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 91
+            },
+            {
+                "name": "redwood_log",
+                "count": 104
+            }
+        ]
+    },
+    "rainbow_sword": {
+        "requires": "crimson_sword",
+        "materials": [
+            {
+                "name": "rainbow_cheese",
+                "count": 117
+            }
+        ]
+    },
+    "snail_shell_helmet": {
+        "requires": "azure_helmet",
+        "materials": [
+            {
+                "name": "snail_shell",
+                "count": 2
+            }
+        ]
+    },
+    "snake_fang_dirk": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 30
+            },
+            {
+                "name": "snake_fang",
+                "count": 5
+            }
+        ]
+    },
+    "spiked_bulwark": {
+        "requires": "holy_bulwark",
+        "materials": [
+            {
+                "name": "stalactite_shard",
+                "count": 10
+            },
+            {
+                "name": "living_granite",
+                "count": 10
+            }
+        ]
+    },
+    "stalactite_spear": {
+        "requires": "holy_spear",
+        "materials": [
+            {
+                "name": "stalactite_shard",
+                "count": 20
+            }
+        ]
+    },
+    "turtle_shell_body": {
+        "requires": "azure_plate_body",
+        "materials": [
+            {
+                "name": "turtle_shell",
+                "count": 3
+            }
+        ]
+    },
+    "turtle_shell_legs": {
+        "requires": "azure_plate_legs",
+        "materials": [
+            {
+                "name": "turtle_shell",
+                "count": 2
+            }
+        ]
+    },
+    "vampire_fang_dirk": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 400
+            },
+            {
+                "name": "vampire_fang",
+                "count": 20
+            }
+        ]
+    },
+    "verdant_boots": {
+        "requires": "cheese_boots",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 12
+            }
+        ]
+    },
+    "verdant_brush": {
+        "requires": "cheese_brush",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 18
+            },
+            {
+                "name": "birch_log",
+                "count": 12
+            }
+        ]
+    },
+    "verdant_buckler": {
+        "requires": "cheese_buckler",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 18
+            }
+        ]
+    },
+    "verdant_bulwark": {
+        "requires": "cheese_bulwark",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 36
+            }
+        ]
+    },
+    "verdant_cheese": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "verdant_milk",
+                "count": 2
+            }
+        ]
+    },
+    "verdant_chisel": {
+        "requires": "cheese_chisel",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 18
+            },
+            {
+                "name": "birch_log",
+                "count": 12
+            }
+        ]
+    },
+    "verdant_enhancer": {
+        "requires": "cheese_enhancer",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 21
+            }
+        ]
+    },
+    "verdant_gauntlets": {
+        "requires": "cheese_gauntlets",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 12
+            }
+        ]
+    },
+    "verdant_hammer": {
+        "requires": "cheese_hammer",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 18
+            },
+            {
+                "name": "birch_log",
+                "count": 12
+            }
+        ]
+    },
+    "verdant_hatchet": {
+        "requires": "cheese_hatchet",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 18
+            },
+            {
+                "name": "birch_log",
+                "count": 12
+            }
+        ]
+    },
+    "verdant_helmet": {
+        "requires": "cheese_helmet",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 15
+            }
+        ]
+    },
+    "verdant_mace": {
+        "requires": "cheese_mace",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 21
+            },
+            {
+                "name": "birch_log",
+                "count": 24
+            }
+        ]
+    },
+    "verdant_needle": {
+        "requires": "cheese_needle",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 21
+            }
+        ]
+    },
+    "verdant_plate_body": {
+        "requires": "cheese_plate_body",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 24
+            }
+        ]
+    },
+    "verdant_plate_legs": {
+        "requires": "cheese_plate_legs",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 21
+            }
+        ]
+    },
+    "verdant_pot": {
+        "requires": "cheese_pot",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 21
+            }
+        ]
+    },
+    "verdant_shears": {
+        "requires": "cheese_shears",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 18
+            },
+            {
+                "name": "birch_log",
+                "count": 12
+            }
+        ]
+    },
+    "verdant_spatula": {
+        "requires": "cheese_spatula",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 21
+            }
+        ]
+    },
+    "verdant_spear": {
+        "requires": "cheese_spear",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 21
+            },
+            {
+                "name": "birch_log",
+                "count": 24
+            }
+        ]
+    },
+    "verdant_sword": {
+        "requires": "cheese_sword",
+        "materials": [
+            {
+                "name": "verdant_cheese",
+                "count": 27
+            }
+        ]
+    },
+    "vision_helmet": {
+        "requires": "crimson_helmet",
+        "materials": [
+            {
+                "name": "goggles",
+                "count": 1
+            }
+        ]
+    },
+    "vision_shield": {
+        "requires": "crimson_buckler",
+        "materials": [
+            {
+                "name": "magnifying_glass",
+                "count": 1
+            }
+        ]
+    },
+    "werewolf_slasher": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "holy_cheese",
+                "count": 600
+            },
+            {
+                "name": "werewolf_claw",
+                "count": 20
+            }
+        ]
+    },
+    "abyssal_imp": {
+        "requires": "",
+        "materials": []
+    },
+    "alligator": {
+        "requires": "",
+        "materials": []
+    },
+    "aqua_planet": {
+        "requires": "",
+        "materials": []
+    },
+    "aquahorse": {
+        "requires": "",
+        "materials": []
+    },
+    "bear_with_it": {
+        "requires": "",
+        "materials": []
+    },
+    "black_bear": {
+        "requires": "",
+        "materials": []
+    },
+    "centaur_archer": {
+        "requires": "",
+        "materials": []
+    },
+    "crab": {
+        "requires": "",
+        "materials": []
+    },
+    "elementalist": {
+        "requires": "",
+        "materials": []
+    },
+    "eye": {
+        "requires": "",
+        "materials": []
+    },
+    "eyes": {
+        "requires": "",
+        "materials": []
+    },
+    "flame_sorcerer": {
+        "requires": "",
+        "materials": []
+    },
+    "fly": {
+        "requires": "",
+        "materials": []
+    },
+    "frog": {
+        "requires": "",
+        "materials": []
+    },
+    "gobo_boomy": {
+        "requires": "",
+        "materials": []
+    },
+    "gobo_planet": {
+        "requires": "",
+        "materials": []
+    },
+    "gobo_shooty": {
+        "requires": "",
+        "materials": []
+    },
+    "gobo_slashy": {
+        "requires": "",
+        "materials": []
+    },
+    "gobo_smashy": {
+        "requires": "",
+        "materials": []
+    },
+    "gobo_stabby": {
+        "requires": "",
+        "materials": []
+    },
+    "golem_cave": {
+        "requires": "",
+        "materials": []
+    },
+    "granite_golem": {
+        "requires": "",
+        "materials": []
+    },
+    "grizzly_bear": {
+        "requires": "",
+        "materials": []
+    },
+    "gummy_bear": {
+        "requires": "",
+        "materials": []
+    },
+    "ice_sorcerer": {
+        "requires": "",
+        "materials": []
+    },
+    "infernal_abyss": {
+        "requires": "",
+        "materials": []
+    },
+    "infernal_warlock": {
+        "requires": "",
+        "materials": []
+    },
+    "jungle_planet": {
+        "requires": "",
+        "materials": []
+    },
+    "jungle_sprite": {
+        "requires": "",
+        "materials": []
+    },
+    "magnetic_golem": {
+        "requires": "",
+        "materials": []
+    },
+    "myconid": {
+        "requires": "",
+        "materials": []
+    },
+    "nom_nom": {
+        "requires": "",
+        "materials": []
+    },
+    "novice_sorcerer": {
+        "requires": "",
+        "materials": []
+    },
+    "panda": {
+        "requires": "",
+        "materials": []
+    },
+    "planet_of_the_eyes": {
+        "requires": "",
+        "materials": []
+    },
+    "polar_bear": {
+        "requires": "",
+        "materials": []
+    },
+    "porcupine": {
+        "requires": "",
+        "materials": []
+    },
+    "rat": {
+        "requires": "",
+        "materials": []
+    },
+    "sea_snail": {
+        "requires": "",
+        "materials": []
+    },
+    "skunk": {
+        "requires": "",
+        "materials": []
+    },
+    "slimy": {
+        "requires": "",
+        "materials": []
+    },
+    "smelly_planet": {
+        "requires": "",
+        "materials": []
+    },
+    "snake": {
+        "requires": "",
+        "materials": []
+    },
+    "sorcerers_tower": {
+        "requires": "",
+        "materials": []
+    },
+    "soul_hunter": {
+        "requires": "",
+        "materials": []
+    },
+    "stalactite_golem": {
+        "requires": "",
+        "materials": []
+    },
+    "swamp_planet": {
+        "requires": "",
+        "materials": []
+    },
+    "swampy": {
+        "requires": "",
+        "materials": []
+    },
+    "treant": {
+        "requires": "",
+        "materials": []
+    },
+    "turtle": {
+        "requires": "",
+        "materials": []
+    },
+    "twilight_zone": {
+        "requires": "",
+        "materials": []
+    },
+    "vampire": {
+        "requires": "",
+        "materials": []
+    },
+    "veyes": {
+        "requires": "",
+        "materials": []
+    },
+    "werewolf": {
+        "requires": "",
+        "materials": []
+    },
+    "zombie": {
+        "requires": "",
+        "materials": []
+    },
+    "apple_gummy": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 6
+            },
+            {
+                "name": "apple",
+                "count": 1
+            }
+        ]
+    },
+    "apple_yogurt": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 3
+            },
+            {
+                "name": "verdant_milk",
+                "count": 1
+            },
+            {
+                "name": "apple",
+                "count": 1
+            }
+        ]
+    },
+    "blackberry_cake": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 2
+            },
+            {
+                "name": "azure_milk",
+                "count": 1
+            },
+            {
+                "name": "blackberry",
+                "count": 2
+            }
+        ]
+    },
+    "blackberry_donut": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 4
+            },
+            {
+                "name": "blackberry",
+                "count": 2
+            }
+        ]
+    },
+    "blueberry_cake": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 2
+            },
+            {
+                "name": "verdant_milk",
+                "count": 1
+            },
+            {
+                "name": "blueberry",
+                "count": 2
+            }
+        ]
+    },
+    "blueberry_donut": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 4
+            },
+            {
+                "name": "blueberry",
+                "count": 2
+            }
+        ]
+    },
+    "cupcake": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 2
+            },
+            {
+                "name": "milk",
+                "count": 1
+            }
+        ]
+    },
+    "donut": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 4
+            }
+        ]
+    },
+    "dragon_fruit_gummy": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 6
+            },
+            {
+                "name": "dragon_fruit",
+                "count": 1
+            }
+        ]
+    },
+    "dragon_fruit_yogurt": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 3
+            },
+            {
+                "name": "rainbow_milk",
+                "count": 1
+            },
+            {
+                "name": "dragon_fruit",
+                "count": 1
+            }
+        ]
+    },
+    "gummy": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 6
+            }
+        ]
+    },
+    "marsberry_cake": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 2
+            },
+            {
+                "name": "rainbow_milk",
+                "count": 1
+            },
+            {
+                "name": "marsberry",
+                "count": 2
+            }
+        ]
+    },
+    "marsberry_donut": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 4
+            },
+            {
+                "name": "marsberry",
+                "count": 2
+            }
+        ]
+    },
+    "mooberry_cake": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 2
+            },
+            {
+                "name": "crimson_milk",
+                "count": 1
+            },
+            {
+                "name": "mooberry",
+                "count": 2
+            }
+        ]
+    },
+    "mooberry_donut": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 4
+            },
+            {
+                "name": "mooberry",
+                "count": 2
+            }
+        ]
+    },
+    "orange_gummy": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 6
+            },
+            {
+                "name": "orange",
+                "count": 1
+            }
+        ]
+    },
+    "orange_yogurt": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 3
+            },
+            {
+                "name": "azure_milk",
+                "count": 1
+            },
+            {
+                "name": "orange",
+                "count": 1
+            }
+        ]
+    },
+    "peach_gummy": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 6
+            },
+            {
+                "name": "peach",
+                "count": 1
+            }
+        ]
+    },
+    "peach_yogurt": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 3
+            },
+            {
+                "name": "crimson_milk",
+                "count": 1
+            },
+            {
+                "name": "peach",
+                "count": 1
+            }
+        ]
+    },
+    "plum_gummy": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 6
+            },
+            {
+                "name": "plum",
+                "count": 1
+            }
+        ]
+    },
+    "plum_yogurt": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 3
+            },
+            {
+                "name": "burble_milk",
+                "count": 1
+            },
+            {
+                "name": "plum",
+                "count": 1
+            }
+        ]
+    },
+    "spaceberry_cake": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 2
+            },
+            {
+                "name": "holy_milk",
+                "count": 1
+            },
+            {
+                "name": "spaceberry",
+                "count": 2
+            }
+        ]
+    },
+    "spaceberry_donut": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 4
+            },
+            {
+                "name": "spaceberry",
+                "count": 2
+            }
+        ]
+    },
+    "star_fruit_gummy": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 6
+            },
+            {
+                "name": "star_fruit",
+                "count": 1
+            }
+        ]
+    },
+    "star_fruit_yogurt": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 3
+            },
+            {
+                "name": "holy_milk",
+                "count": 1
+            },
+            {
+                "name": "star_fruit",
+                "count": 1
+            }
+        ]
+    },
+    "strawberry_cake": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 2
+            },
+            {
+                "name": "burble_milk",
+                "count": 1
+            },
+            {
+                "name": "strawberry",
+                "count": 2
+            }
+        ]
+    },
+    "strawberry_donut": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "egg",
+                "count": 1
+            },
+            {
+                "name": "wheat",
+                "count": 1
+            },
+            {
+                "name": "sugar",
+                "count": 4
+            },
+            {
+                "name": "strawberry",
+                "count": 2
+            }
+        ]
+    },
+    "yogurt": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "sugar",
+                "count": 3
+            },
+            {
+                "name": "milk",
+                "count": 1
+            }
+        ]
+    },
+    "advanced_task_ring": {
+        "requires": "basic_task_ring",
+        "materials": [
+            {
+                "name": "task_crystal",
+                "count": 4
+            }
+        ]
+    },
+    "arcane_bow": {
+        "requires": "redwood_bow",
+        "materials": [
+            {
+                "name": "arcane_lumber",
+                "count": 216
+            }
+        ]
+    },
+    "arcane_crossbow": {
+        "requires": "redwood_crossbow",
+        "materials": [
+            {
+                "name": "arcane_lumber",
+                "count": 162
+            }
+        ]
+    },
+    "arcane_fire_staff": {
+        "requires": "redwood_fire_staff",
+        "materials": [
+            {
+                "name": "arcane_lumber",
+                "count": 162
+            }
+        ]
+    },
+    "arcane_lumber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "arcane_log",
+                "count": 2
+            }
+        ]
+    },
+    "arcane_nature_staff": {
+        "requires": "redwood_nature_staff",
+        "materials": [
+            {
+                "name": "arcane_lumber",
+                "count": 162
+            }
+        ]
+    },
+    "arcane_shield": {
+        "requires": "redwood_shield",
+        "materials": [
+            {
+                "name": "arcane_lumber",
+                "count": 108
+            }
+        ]
+    },
+    "arcane_water_staff": {
+        "requires": "redwood_water_staff",
+        "materials": [
+            {
+                "name": "arcane_lumber",
+                "count": 162
+            }
+        ]
+    },
+    "basic_task_ring": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "task_crystal",
+                "count": 1
+            }
+        ]
+    },
+    "birch_bow": {
+        "requires": "wooden_bow",
+        "materials": [
+            {
+                "name": "birch_lumber",
+                "count": 36
+            }
+        ]
+    },
+    "birch_crossbow": {
+        "requires": "wooden_crossbow",
+        "materials": [
+            {
+                "name": "birch_lumber",
+                "count": 27
+            }
+        ]
+    },
+    "birch_fire_staff": {
+        "requires": "wooden_fire_staff",
+        "materials": [
+            {
+                "name": "birch_lumber",
+                "count": 27
+            }
+        ]
+    },
+    "birch_lumber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "birch_log",
+                "count": 2
+            }
+        ]
+    },
+    "birch_nature_staff": {
+        "requires": "wooden_nature_staff",
+        "materials": [
+            {
+                "name": "birch_lumber",
+                "count": 27
+            }
+        ]
+    },
+    "birch_shield": {
+        "requires": "wooden_shield",
+        "materials": [
+            {
+                "name": "birch_lumber",
+                "count": 18
+            }
+        ]
+    },
+    "birch_water_staff": {
+        "requires": "wooden_water_staff",
+        "materials": [
+            {
+                "name": "birch_lumber",
+                "count": 27
+            }
+        ]
+    },
+    "cedar_bow": {
+        "requires": "birch_bow",
+        "materials": [
+            {
+                "name": "cedar_lumber",
+                "count": 48
+            }
+        ]
+    },
+    "cedar_crossbow": {
+        "requires": "birch_crossbow",
+        "materials": [
+            {
+                "name": "cedar_lumber",
+                "count": 36
+            }
+        ]
+    },
+    "cedar_fire_staff": {
+        "requires": "birch_fire_staff",
+        "materials": [
+            {
+                "name": "cedar_lumber",
+                "count": 36
+            }
+        ]
+    },
+    "cedar_lumber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cedar_log",
+                "count": 2
+            }
+        ]
+    },
+    "cedar_nature_staff": {
+        "requires": "birch_nature_staff",
+        "materials": [
+            {
+                "name": "cedar_lumber",
+                "count": 36
+            }
+        ]
+    },
+    "cedar_shield": {
+        "requires": "birch_shield",
+        "materials": [
+            {
+                "name": "cedar_lumber",
+                "count": 24
+            }
+        ]
+    },
+    "cedar_water_staff": {
+        "requires": "birch_water_staff",
+        "materials": [
+            {
+                "name": "cedar_lumber",
+                "count": 36
+            }
+        ]
+    },
+    "crushed_amber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "amber",
+                "count": 1
+            }
+        ]
+    },
+    "crushed_amethyst": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "amethyst",
+                "count": 1
+            }
+        ]
+    },
+    "crushed_garnet": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "garnet",
+                "count": 1
+            }
+        ]
+    },
+    "crushed_jade": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "jade",
+                "count": 1
+            }
+        ]
+    },
+    "crushed_moonstone": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "moonstone",
+                "count": 1
+            }
+        ]
+    },
+    "crushed_pearl": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "pearl",
+                "count": 1
+            }
+        ]
+    },
+    "earrings_of_armor": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "garnet",
+                "count": 4
+            },
+            {
+                "name": "amber",
+                "count": 2
+            }
+        ]
+    },
+    "earrings_of_gathering": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "pearl",
+                "count": 6
+            }
+        ]
+    },
+    "earrings_of_rare_find": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "moonstone",
+                "count": 6
+            }
+        ]
+    },
+    "earrings_of_regeneration": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "jade",
+                "count": 4
+            },
+            {
+                "name": "pearl",
+                "count": 2
+            }
+        ]
+    },
+    "earrings_of_resistance": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "amethyst",
+                "count": 4
+            },
+            {
+                "name": "amber",
+                "count": 2
+            }
+        ]
+    },
+    "expert_task_ring": {
+        "requires": "advanced_task_ring",
+        "materials": [
+            {
+                "name": "task_crystal",
+                "count": 16
+            }
+        ]
+    },
+    "eye_watch": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "eye_of_the_watcher",
+                "count": 10
+            },
+            {
+                "name": "rainbow_cheese",
+                "count": 150
+            },
+            {
+                "name": "redwood_lumber",
+                "count": 150
+            },
+            {
+                "name": "crimson_cheese",
+                "count": 150
+            },
+            {
+                "name": "ginkgo_lumber",
+                "count": 150
+            }
+        ]
+    },
+    "fighter_necklace": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 1000
+            },
+            {
+                "name": "garnet",
+                "count": 10
+            }
+        ]
+    },
+    "frost_staff": {
+        "requires": "arcane_water_staff",
+        "materials": [
+            {
+                "name": "frost_sphere",
+                "count": 20
+            }
+        ]
+    },
+    "ginkgo_bow": {
+        "requires": "purpleheart_bow",
+        "materials": [
+            {
+                "name": "ginkgo_lumber",
+                "count": 108
+            }
+        ]
+    },
+    "ginkgo_crossbow": {
+        "requires": "purpleheart_crossbow",
+        "materials": [
+            {
+                "name": "ginkgo_lumber",
+                "count": 81
+            }
+        ]
+    },
+    "ginkgo_fire_staff": {
+        "requires": "purpleheart_fire_staff",
+        "materials": [
+            {
+                "name": "ginkgo_lumber",
+                "count": 81
+            }
+        ]
+    },
+    "ginkgo_lumber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "ginkgo_log",
+                "count": 2
+            }
+        ]
+    },
+    "ginkgo_nature_staff": {
+        "requires": "purpleheart_nature_staff",
+        "materials": [
+            {
+                "name": "ginkgo_lumber",
+                "count": 81
+            }
+        ]
+    },
+    "ginkgo_shield": {
+        "requires": "purpleheart_shield",
+        "materials": [
+            {
+                "name": "ginkgo_lumber",
+                "count": 54
+            }
+        ]
+    },
+    "ginkgo_water_staff": {
+        "requires": "purpleheart_water_staff",
+        "materials": [
+            {
+                "name": "ginkgo_lumber",
+                "count": 81
+            }
+        ]
+    },
+    "infernal_battlestaff": {
+        "requires": "arcane_fire_staff",
+        "materials": [
+            {
+                "name": "infernal_ember",
+                "count": 20
+            }
+        ]
+    },
+    "lumber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "log",
+                "count": 2
+            }
+        ]
+    },
+    "mirror_of_protection": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "shard_of_protection",
+                "count": 200
+            }
+        ]
+    },
+    "necklace_of_efficiency": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 1000
+            },
+            {
+                "name": "amber",
+                "count": 8
+            },
+            {
+                "name": "moonstone",
+                "count": 2
+            }
+        ]
+    },
+    "necklace_of_wisdom": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 1000
+            },
+            {
+                "name": "moonstone",
+                "count": 8
+            },
+            {
+                "name": "pearl",
+                "count": 6
+            }
+        ]
+    },
+    "purpleheart_bow": {
+        "requires": "cedar_bow",
+        "materials": [
+            {
+                "name": "purpleheart_lumber",
+                "count": 72
+            }
+        ]
+    },
+    "purpleheart_crossbow": {
+        "requires": "cedar_crossbow",
+        "materials": [
+            {
+                "name": "purpleheart_lumber",
+                "count": 54
+            }
+        ]
+    },
+    "purpleheart_fire_staff": {
+        "requires": "cedar_fire_staff",
+        "materials": [
+            {
+                "name": "purpleheart_lumber",
+                "count": 54
+            }
+        ]
+    },
+    "purpleheart_lumber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "purpleheart_log",
+                "count": 2
+            }
+        ]
+    },
+    "purpleheart_nature_staff": {
+        "requires": "cedar_nature_staff",
+        "materials": [
+            {
+                "name": "purpleheart_lumber",
+                "count": 54
+            }
+        ]
+    },
+    "purpleheart_shield": {
+        "requires": "cedar_shield",
+        "materials": [
+            {
+                "name": "purpleheart_lumber",
+                "count": 36
+            }
+        ]
+    },
+    "purpleheart_water_staff": {
+        "requires": "cedar_water_staff",
+        "materials": [
+            {
+                "name": "purpleheart_lumber",
+                "count": 54
+            }
+        ]
+    },
+    "ranger_necklace": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 1000
+            },
+            {
+                "name": "jade",
+                "count": 10
+            }
+        ]
+    },
+    "redwood_bow": {
+        "requires": "ginkgo_bow",
+        "materials": [
+            {
+                "name": "redwood_lumber",
+                "count": 156
+            }
+        ]
+    },
+    "redwood_crossbow": {
+        "requires": "ginkgo_crossbow",
+        "materials": [
+            {
+                "name": "redwood_lumber",
+                "count": 117
+            }
+        ]
+    },
+    "redwood_fire_staff": {
+        "requires": "ginkgo_fire_staff",
+        "materials": [
+            {
+                "name": "redwood_lumber",
+                "count": 117
+            }
+        ]
+    },
+    "redwood_lumber": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "redwood_log",
+                "count": 2
+            }
+        ]
+    },
+    "redwood_nature_staff": {
+        "requires": "ginkgo_nature_staff",
+        "materials": [
+            {
+                "name": "redwood_lumber",
+                "count": 117
+            }
+        ]
+    },
+    "redwood_shield": {
+        "requires": "ginkgo_shield",
+        "materials": [
+            {
+                "name": "redwood_lumber",
+                "count": 78
+            }
+        ]
+    },
+    "redwood_water_staff": {
+        "requires": "ginkgo_water_staff",
+        "materials": [
+            {
+                "name": "redwood_lumber",
+                "count": 117
+            }
+        ]
+    },
+    "ring_of_armor": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "garnet",
+                "count": 4
+            },
+            {
+                "name": "amber",
+                "count": 2
+            }
+        ]
+    },
+    "ring_of_gathering": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "pearl",
+                "count": 6
+            }
+        ]
+    },
+    "ring_of_rare_find": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "moonstone",
+                "count": 6
+            }
+        ]
+    },
+    "ring_of_regeneration": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "jade",
+                "count": 4
+            },
+            {
+                "name": "pearl",
+                "count": 2
+            }
+        ]
+    },
+    "ring_of_resistance": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 600
+            },
+            {
+                "name": "amethyst",
+                "count": 4
+            },
+            {
+                "name": "amber",
+                "count": 2
+            }
+        ]
+    },
+    "soul_hunter_crossbow": {
+        "requires": "arcane_crossbow",
+        "materials": [
+            {
+                "name": "soul_fragment",
+                "count": 20
+            }
+        ]
+    },
+    "treant_shield": {
+        "requires": "purpleheart_shield",
+        "materials": [
+            {
+                "name": "treant_bark",
+                "count": 4
+            }
+        ]
+    },
+    "vampiric_bow": {
+        "requires": "arcane_bow",
+        "materials": [
+            {
+                "name": "vampire_fang",
+                "count": 10
+            },
+            {
+                "name": "werewolf_claw",
+                "count": 10
+            }
+        ]
+    },
+    "watchful_relic": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "eye_of_the_watcher",
+                "count": 10
+            },
+            {
+                "name": "rainbow_cheese",
+                "count": 100
+            },
+            {
+                "name": "redwood_lumber",
+                "count": 100
+            },
+            {
+                "name": "crimson_cheese",
+                "count": 100
+            },
+            {
+                "name": "ginkgo_lumber",
+                "count": 100
+            }
+        ]
+    },
+    "wizard_necklace": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "star_fragment",
+                "count": 1000
+            },
+            {
+                "name": "amethyst",
+                "count": 10
+            }
+        ]
+    },
+    "wooden_bow": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "lumber",
+                "count": 24
+            }
+        ]
+    },
+    "wooden_crossbow": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "lumber",
+                "count": 18
+            }
+        ]
+    },
+    "wooden_fire_staff": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "lumber",
+                "count": 18
+            }
+        ]
+    },
+    "wooden_nature_staff": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "lumber",
+                "count": 18
+            }
+        ]
+    },
+    "wooden_shield": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "lumber",
+                "count": 12
+            }
+        ]
+    },
+    "wooden_water_staff": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "lumber",
+                "count": 18
+            }
+        ]
+    },
+    "enhance": {
+        "requires": "",
+        "materials": []
+    },
+    "apple": {
+        "requires": "",
+        "materials": []
+    },
+    "arabica_coffee_bean": {
+        "requires": "",
+        "materials": []
+    },
+    "asteroid_belt": {
+        "requires": "",
+        "materials": []
+    },
+    "bamboo_branch": {
+        "requires": "",
+        "materials": []
+    },
+    "blackberry": {
+        "requires": "",
+        "materials": []
+    },
+    "blueberry": {
+        "requires": "",
+        "materials": []
+    },
+    "burble_beach": {
+        "requires": "",
+        "materials": []
+    },
+    "cocoon": {
+        "requires": "",
+        "materials": []
+    },
+    "cotton": {
+        "requires": "",
+        "materials": []
+    },
+    "dragon_fruit": {
+        "requires": "",
+        "materials": []
+    },
+    "egg": {
+        "requires": "",
+        "materials": []
+    },
+    "excelsa_coffee_bean": {
+        "requires": "",
+        "materials": []
+    },
+    "farmland": {
+        "requires": "",
+        "materials": []
+    },
+    "fieriosa_coffee_bean": {
+        "requires": "",
+        "materials": []
+    },
+    "flax": {
+        "requires": "",
+        "materials": []
+    },
+    "liberica_coffee_bean": {
+        "requires": "",
+        "materials": []
+    },
+    "marsberry": {
+        "requires": "",
+        "materials": []
+    },
+    "misty_forest": {
+        "requires": "",
+        "materials": []
+    },
+    "mooberry": {
+        "requires": "",
+        "materials": []
+    },
+    "olympus_mons": {
+        "requires": "",
+        "materials": []
+    },
+    "orange": {
+        "requires": "",
+        "materials": []
+    },
+    "peach": {
+        "requires": "",
+        "materials": []
+    },
+    "plum": {
+        "requires": "",
+        "materials": []
+    },
+    "radiant_fiber": {
+        "requires": "",
+        "materials": []
+    },
+    "robusta_coffee_bean": {
+        "requires": "",
+        "materials": []
+    },
+    "shimmering_lake": {
+        "requires": "",
+        "materials": []
+    },
+    "silly_cow_valley": {
+        "requires": "",
+        "materials": []
+    },
+    "spaceberry": {
+        "requires": "",
+        "materials": []
+    },
+    "spacia_coffee_bean": {
+        "requires": "",
+        "materials": []
+    },
+    "star_fruit": {
+        "requires": "",
+        "materials": []
+    },
+    "strawberry": {
+        "requires": "",
+        "materials": []
+    },
+    "sugar": {
+        "requires": "",
+        "materials": []
+    },
+    "wheat": {
+        "requires": "",
+        "materials": []
+    },
+    "azure_cow": {
+        "requires": "",
+        "materials": []
+    },
+    "burble_cow": {
+        "requires": "",
+        "materials": []
+    },
+    "cow": {
+        "requires": "",
+        "materials": []
+    },
+    "crimson_cow": {
+        "requires": "",
+        "materials": []
+    },
+    "holy_cow": {
+        "requires": "",
+        "materials": []
+    },
+    "unicow": {
+        "requires": "",
+        "materials": []
+    },
+    "verdant_cow": {
+        "requires": "",
+        "materials": []
+    },
+    "bamboo_boots": {
+        "requires": "linen_boots",
+        "materials": [
+            {
+                "name": "bamboo_fabric",
+                "count": 28
+            }
+        ]
+    },
+    "bamboo_fabric": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "bamboo_branch",
+                "count": 2
+            }
+        ]
+    },
+    "bamboo_gloves": {
+        "requires": "linen_gloves",
+        "materials": [
+            {
+                "name": "bamboo_fabric",
+                "count": 28
+            }
+        ]
+    },
+    "bamboo_hat": {
+        "requires": "linen_hat",
+        "materials": [
+            {
+                "name": "bamboo_fabric",
+                "count": 35
+            }
+        ]
+    },
+    "bamboo_robe_bottoms": {
+        "requires": "linen_robe_bottoms",
+        "materials": [
+            {
+                "name": "bamboo_fabric",
+                "count": 49
+            }
+        ]
+    },
+    "bamboo_robe_top": {
+        "requires": "linen_robe_top",
+        "materials": [
+            {
+                "name": "bamboo_fabric",
+                "count": 56
+            }
+        ]
+    },
+    "beast_boots": {
+        "requires": "gobo_boots",
+        "materials": [
+            {
+                "name": "beast_leather",
+                "count": 48
+            }
+        ]
+    },
+    "beast_bracers": {
+        "requires": "gobo_bracers",
+        "materials": [
+            {
+                "name": "beast_leather",
+                "count": 48
+            }
+        ]
+    },
+    "beast_chaps": {
+        "requires": "gobo_chaps",
+        "materials": [
+            {
+                "name": "beast_leather",
+                "count": 84
+            }
+        ]
+    },
+    "beast_hood": {
+        "requires": "gobo_hood",
+        "materials": [
+            {
+                "name": "beast_leather",
+                "count": 60
+            }
+        ]
+    },
+    "beast_leather": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "beast_hide",
+                "count": 2
+            }
+        ]
+    },
+    "beast_tunic": {
+        "requires": "gobo_tunic",
+        "materials": [
+            {
+                "name": "beast_leather",
+                "count": 96
+            }
+        ]
+    },
+    "centaur_boots": {
+        "requires": "beast_boots",
+        "materials": [
+            {
+                "name": "centaur_hoof",
+                "count": 6
+            }
+        ]
+    },
+    "chrono_gloves": {
+        "requires": "radiant_gloves",
+        "materials": [
+            {
+                "name": "chrono_sphere",
+                "count": 10
+            }
+        ]
+    },
+    "collectors_boots": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "gobo_rag",
+                "count": 10
+            },
+            {
+                "name": "gobo_leather",
+                "count": 200
+            },
+            {
+                "name": "bamboo_fabric",
+                "count": 200
+            },
+            {
+                "name": "reptile_leather",
+                "count": 200
+            },
+            {
+                "name": "linen_fabric",
+                "count": 200
+            }
+        ]
+    },
+    "cotton_boots": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cotton_fabric",
+                "count": 8
+            }
+        ]
+    },
+    "cotton_fabric": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cotton",
+                "count": 2
+            }
+        ]
+    },
+    "cotton_gloves": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cotton_fabric",
+                "count": 8
+            }
+        ]
+    },
+    "cotton_hat": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cotton_fabric",
+                "count": 10
+            }
+        ]
+    },
+    "cotton_robe_bottoms": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cotton_fabric",
+                "count": 14
+            }
+        ]
+    },
+    "cotton_robe_top": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cotton_fabric",
+                "count": 16
+            }
+        ]
+    },
+    "enchanted_gloves": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "chrono_sphere",
+                "count": 10
+            },
+            {
+                "name": "umbral_leather",
+                "count": 100
+            },
+            {
+                "name": "radiant_fabric",
+                "count": 100
+            },
+            {
+                "name": "beast_leather",
+                "count": 100
+            },
+            {
+                "name": "silk_fabric",
+                "count": 100
+            }
+        ]
+    },
+    "flaming_robe_bottoms": {
+        "requires": "bamboo_robe_bottoms",
+        "materials": [
+            {
+                "name": "flaming_cloth",
+                "count": 4
+            }
+        ]
+    },
+    "flaming_robe_top": {
+        "requires": "bamboo_robe_top",
+        "materials": [
+            {
+                "name": "flaming_cloth",
+                "count": 6
+            }
+        ]
+    },
+    "fluffy_red_hat": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "red_panda_fluff",
+                "count": 10
+            },
+            {
+                "name": "umbral_leather",
+                "count": 100
+            },
+            {
+                "name": "radiant_fabric",
+                "count": 100
+            },
+            {
+                "name": "beast_leather",
+                "count": 100
+            },
+            {
+                "name": "silk_fabric",
+                "count": 100
+            }
+        ]
+    },
+    "giant_pouch": {
+        "requires": "large_pouch",
+        "materials": [
+            {
+                "name": "beast_leather",
+                "count": 1000
+            },
+            {
+                "name": "silk_fabric",
+                "count": 1000
+            },
+            {
+                "name": "coin",
+                "count": 5000000
+            }
+        ]
+    },
+    "gobo_boots": {
+        "requires": "reptile_boots",
+        "materials": [
+            {
+                "name": "gobo_leather",
+                "count": 28
+            }
+        ]
+    },
+    "gobo_bracers": {
+        "requires": "reptile_bracers",
+        "materials": [
+            {
+                "name": "gobo_leather",
+                "count": 28
+            }
+        ]
+    },
+    "gobo_chaps": {
+        "requires": "reptile_chaps",
+        "materials": [
+            {
+                "name": "gobo_leather",
+                "count": 49
+            }
+        ]
+    },
+    "gobo_hood": {
+        "requires": "reptile_hood",
+        "materials": [
+            {
+                "name": "gobo_leather",
+                "count": 35
+            }
+        ]
+    },
+    "gobo_leather": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "gobo_hide",
+                "count": 2
+            }
+        ]
+    },
+    "gobo_tunic": {
+        "requires": "reptile_tunic",
+        "materials": [
+            {
+                "name": "gobo_leather",
+                "count": 56
+            }
+        ]
+    },
+    "icy_robe_bottoms": {
+        "requires": "bamboo_robe_bottoms",
+        "materials": [
+            {
+                "name": "icy_cloth",
+                "count": 4
+            }
+        ]
+    },
+    "icy_robe_top": {
+        "requires": "bamboo_robe_top",
+        "materials": [
+            {
+                "name": "icy_cloth",
+                "count": 6
+            }
+        ]
+    },
+    "large_pouch": {
+        "requires": "medium_pouch",
+        "materials": [
+            {
+                "name": "gobo_leather",
+                "count": 300
+            },
+            {
+                "name": "bamboo_fabric",
+                "count": 300
+            },
+            {
+                "name": "coin",
+                "count": 500000
+            }
+        ]
+    },
+    "linen_boots": {
+        "requires": "cotton_boots",
+        "materials": [
+            {
+                "name": "linen_fabric",
+                "count": 16
+            }
+        ]
+    },
+    "linen_fabric": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "flax",
+                "count": 2
+            }
+        ]
+    },
+    "linen_gloves": {
+        "requires": "cotton_gloves",
+        "materials": [
+            {
+                "name": "linen_fabric",
+                "count": 16
+            }
+        ]
+    },
+    "linen_hat": {
+        "requires": "cotton_hat",
+        "materials": [
+            {
+                "name": "linen_fabric",
+                "count": 20
+            }
+        ]
+    },
+    "linen_robe_bottoms": {
+        "requires": "cotton_robe_bottoms",
+        "materials": [
+            {
+                "name": "linen_fabric",
+                "count": 28
+            }
+        ]
+    },
+    "linen_robe_top": {
+        "requires": "cotton_robe_top",
+        "materials": [
+            {
+                "name": "linen_fabric",
+                "count": 32
+            }
+        ]
+    },
+    "luna_robe_bottoms": {
+        "requires": "silk_robe_bottoms",
+        "materials": [
+            {
+                "name": "luna_wing",
+                "count": 8
+            }
+        ]
+    },
+    "luna_robe_top": {
+        "requires": "silk_robe_top",
+        "materials": [
+            {
+                "name": "luna_wing",
+                "count": 10
+            }
+        ]
+    },
+    "marine_chaps": {
+        "requires": "gobo_chaps",
+        "materials": [
+            {
+                "name": "marine_scale",
+                "count": 8
+            }
+        ]
+    },
+    "marine_tunic": {
+        "requires": "gobo_tunic",
+        "materials": [
+            {
+                "name": "marine_scale",
+                "count": 10
+            }
+        ]
+    },
+    "medium_pouch": {
+        "requires": "small_pouch",
+        "materials": [
+            {
+                "name": "reptile_leather",
+                "count": 100
+            },
+            {
+                "name": "linen_fabric",
+                "count": 100
+            },
+            {
+                "name": "coin",
+                "count": 50000
+            }
+        ]
+    },
+    "radiant_boots": {
+        "requires": "silk_boots",
+        "materials": [
+            {
+                "name": "radiant_fabric",
+                "count": 72
+            }
+        ]
+    },
+    "radiant_fabric": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "radiant_fiber",
+                "count": 2
+            }
+        ]
+    },
+    "radiant_gloves": {
+        "requires": "silk_gloves",
+        "materials": [
+            {
+                "name": "radiant_fabric",
+                "count": 72
+            }
+        ]
+    },
+    "radiant_hat": {
+        "requires": "silk_hat",
+        "materials": [
+            {
+                "name": "radiant_fabric",
+                "count": 90
+            }
+        ]
+    },
+    "radiant_robe_bottoms": {
+        "requires": "silk_robe_bottoms",
+        "materials": [
+            {
+                "name": "radiant_fabric",
+                "count": 126
+            }
+        ]
+    },
+    "radiant_robe_top": {
+        "requires": "silk_robe_top",
+        "materials": [
+            {
+                "name": "radiant_fabric",
+                "count": 144
+            }
+        ]
+    },
+    "red_chefs_hat": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "red_panda_fluff",
+                "count": 10
+            },
+            {
+                "name": "beast_leather",
+                "count": 150
+            },
+            {
+                "name": "silk_fabric",
+                "count": 150
+            },
+            {
+                "name": "gobo_leather",
+                "count": 150
+            },
+            {
+                "name": "bamboo_fabric",
+                "count": 150
+            }
+        ]
+    },
+    "reptile_boots": {
+        "requires": "rough_boots",
+        "materials": [
+            {
+                "name": "reptile_leather",
+                "count": 16
+            }
+        ]
+    },
+    "reptile_bracers": {
+        "requires": "rough_bracers",
+        "materials": [
+            {
+                "name": "reptile_leather",
+                "count": 16
+            }
+        ]
+    },
+    "reptile_chaps": {
+        "requires": "rough_chaps",
+        "materials": [
+            {
+                "name": "reptile_leather",
+                "count": 28
+            }
+        ]
+    },
+    "reptile_hood": {
+        "requires": "rough_hood",
+        "materials": [
+            {
+                "name": "reptile_leather",
+                "count": 20
+            }
+        ]
+    },
+    "reptile_leather": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "reptile_hide",
+                "count": 2
+            }
+        ]
+    },
+    "reptile_tunic": {
+        "requires": "rough_tunic",
+        "materials": [
+            {
+                "name": "reptile_leather",
+                "count": 32
+            }
+        ]
+    },
+    "revenant_chaps": {
+        "requires": "umbral_chaps",
+        "materials": [
+            {
+                "name": "revenant_anima",
+                "count": 8
+            }
+        ]
+    },
+    "revenant_tunic": {
+        "requires": "umbral_tunic",
+        "materials": [
+            {
+                "name": "revenant_anima",
+                "count": 10
+            }
+        ]
+    },
+    "rough_boots": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rough_leather",
+                "count": 8
+            }
+        ]
+    },
+    "rough_bracers": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rough_leather",
+                "count": 8
+            }
+        ]
+    },
+    "rough_chaps": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rough_leather",
+                "count": 14
+            }
+        ]
+    },
+    "rough_hood": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rough_leather",
+                "count": 10
+            }
+        ]
+    },
+    "rough_leather": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rough_hide",
+                "count": 2
+            }
+        ]
+    },
+    "rough_tunic": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rough_leather",
+                "count": 16
+            }
+        ]
+    },
+    "shoebill_shoes": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "shoebill_feather",
+                "count": 10
+            },
+            {
+                "name": "reptile_leather",
+                "count": 50
+            },
+            {
+                "name": "linen_fabric",
+                "count": 50
+            },
+            {
+                "name": "rough_leather",
+                "count": 50
+            },
+            {
+                "name": "cotton_fabric",
+                "count": 50
+            }
+        ]
+    },
+    "sighted_bracers": {
+        "requires": "beast_bracers",
+        "materials": [
+            {
+                "name": "magnifying_glass",
+                "count": 1
+            }
+        ]
+    },
+    "silk_boots": {
+        "requires": "bamboo_boots",
+        "materials": [
+            {
+                "name": "silk_fabric",
+                "count": 48
+            }
+        ]
+    },
+    "silk_fabric": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "cocoon",
+                "count": 2
+            }
+        ]
+    },
+    "silk_gloves": {
+        "requires": "bamboo_gloves",
+        "materials": [
+            {
+                "name": "silk_fabric",
+                "count": 48
+            }
+        ]
+    },
+    "silk_hat": {
+        "requires": "bamboo_hat",
+        "materials": [
+            {
+                "name": "silk_fabric",
+                "count": 60
+            }
+        ]
+    },
+    "silk_robe_bottoms": {
+        "requires": "bamboo_robe_bottoms",
+        "materials": [
+            {
+                "name": "silk_fabric",
+                "count": 84
+            }
+        ]
+    },
+    "silk_robe_top": {
+        "requires": "bamboo_robe_top",
+        "materials": [
+            {
+                "name": "silk_fabric",
+                "count": 96
+            }
+        ]
+    },
+    "small_pouch": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "rough_leather",
+                "count": 30
+            },
+            {
+                "name": "cotton_fabric",
+                "count": 30
+            },
+            {
+                "name": "coin",
+                "count": 5000
+            }
+        ]
+    },
+    "sorcerer_boots": {
+        "requires": "silk_boots",
+        "materials": [
+            {
+                "name": "sorcerers_sole",
+                "count": 6
+            }
+        ]
+    },
+    "umbral_boots": {
+        "requires": "beast_boots",
+        "materials": [
+            {
+                "name": "umbral_leather",
+                "count": 72
+            }
+        ]
+    },
+    "umbral_bracers": {
+        "requires": "beast_bracers",
+        "materials": [
+            {
+                "name": "umbral_leather",
+                "count": 72
+            }
+        ]
+    },
+    "umbral_chaps": {
+        "requires": "beast_chaps",
+        "materials": [
+            {
+                "name": "umbral_leather",
+                "count": 126
+            }
+        ]
+    },
+    "umbral_hood": {
+        "requires": "beast_hood",
+        "materials": [
+            {
+                "name": "umbral_leather",
+                "count": 90
+            }
+        ]
+    },
+    "umbral_leather": {
+        "requires": "",
+        "materials": [
+            {
+                "name": "umbral_hide",
+                "count": 2
+            }
+        ]
+    },
+    "umbral_tunic": {
+        "requires": "beast_tunic",
+        "materials": [
+            {
+                "name": "umbral_leather",
+                "count": 144
+            }
+        ]
+    },
+    "arcane_tree": {
+        "requires": "",
+        "materials": []
+    },
+    "birch_tree": {
+        "requires": "",
+        "materials": []
+    },
+    "cedar_tree": {
+        "requires": "",
+        "materials": []
+    },
+    "ginkgo_tree": {
+        "requires": "",
+        "materials": []
+    },
+    "purpleheart_tree": {
+        "requires": "",
+        "materials": []
+    },
+    "redwood_tree": {
+        "requires": "",
+        "materials": []
+    },
+    "tree": {
+        "requires": "",
+        "materials": []
+    }
+}

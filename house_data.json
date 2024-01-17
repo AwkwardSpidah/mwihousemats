@@ -1,0 +1,4490 @@
+{
+    "archery_range 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "wooden_crossbow",
+            "count": 6
+        },
+        {
+            "name": "wooden_bow",
+            "count": 4
+        },
+        {
+            "name": "rough_hood",
+            "count": 4
+        },
+        {
+            "name": "rough_tunic",
+            "count": 4
+        },
+        {
+            "name": "rough_chaps",
+            "count": 4
+        },
+        {
+            "name": "rough_bracers",
+            "count": 4
+        },
+        {
+            "name": "rough_boots",
+            "count": 4
+        }
+    ],
+    "archery_range 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "wooden_crossbow",
+            "count": 9
+        },
+        {
+            "name": "birch_crossbow",
+            "count": 9
+        },
+        {
+            "name": "wooden_bow",
+            "count": 6
+        },
+        {
+            "name": "birch_bow",
+            "count": 6
+        },
+        {
+            "name": "reptile_hood",
+            "count": 8
+        },
+        {
+            "name": "reptile_tunic",
+            "count": 8
+        },
+        {
+            "name": "reptile_chaps",
+            "count": 8
+        },
+        {
+            "name": "reptile_bracers",
+            "count": 8
+        },
+        {
+            "name": "reptile_boots",
+            "count": 8
+        }
+    ],
+    "archery_range 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "birch_crossbow",
+            "count": 12
+        },
+        {
+            "name": "cedar_crossbow",
+            "count": 12
+        },
+        {
+            "name": "birch_bow",
+            "count": 8
+        },
+        {
+            "name": "cedar_bow",
+            "count": 8
+        },
+        {
+            "name": "reptile_hood",
+            "count": 16
+        },
+        {
+            "name": "reptile_tunic",
+            "count": 16
+        },
+        {
+            "name": "reptile_chaps",
+            "count": 16
+        },
+        {
+            "name": "reptile_bracers",
+            "count": 16
+        },
+        {
+            "name": "reptile_boots",
+            "count": 16
+        }
+    ],
+    "archery_range 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "cedar_crossbow",
+            "count": 15
+        },
+        {
+            "name": "purpleheart_crossbow",
+            "count": 15
+        },
+        {
+            "name": "cedar_bow",
+            "count": 10
+        },
+        {
+            "name": "purpleheart_bow",
+            "count": 10
+        },
+        {
+            "name": "gobo_hood",
+            "count": 16
+        },
+        {
+            "name": "gobo_tunic",
+            "count": 16
+        },
+        {
+            "name": "gobo_chaps",
+            "count": 16
+        },
+        {
+            "name": "gobo_bracers",
+            "count": 16
+        },
+        {
+            "name": "gobo_boots",
+            "count": 16
+        },
+        {
+            "name": "ranged_coffee",
+            "count": 1000
+        }
+    ],
+    "archery_range 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "purpleheart_crossbow",
+            "count": 18
+        },
+        {
+            "name": "ginkgo_crossbow",
+            "count": 18
+        },
+        {
+            "name": "purpleheart_bow",
+            "count": 12
+        },
+        {
+            "name": "ginkgo_bow",
+            "count": 12
+        },
+        {
+            "name": "gobo_hood",
+            "count": 32
+        },
+        {
+            "name": "gobo_tunic",
+            "count": 32
+        },
+        {
+            "name": "gobo_chaps",
+            "count": 32
+        },
+        {
+            "name": "gobo_bracers",
+            "count": 32
+        },
+        {
+            "name": "gobo_boots",
+            "count": 32
+        }
+    ],
+    "archery_range 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "ginkgo_crossbow",
+            "count": 21
+        },
+        {
+            "name": "redwood_crossbow",
+            "count": 21
+        },
+        {
+            "name": "ginkgo_bow",
+            "count": 14
+        },
+        {
+            "name": "redwood_bow",
+            "count": 14
+        },
+        {
+            "name": "beast_hood",
+            "count": 24
+        },
+        {
+            "name": "beast_tunic",
+            "count": 24
+        },
+        {
+            "name": "beast_chaps",
+            "count": 24
+        },
+        {
+            "name": "beast_bracers",
+            "count": 24
+        },
+        {
+            "name": "beast_boots",
+            "count": 24
+        }
+    ],
+    "archery_range 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "redwood_crossbow",
+            "count": 24
+        },
+        {
+            "name": "arcane_crossbow",
+            "count": 24
+        },
+        {
+            "name": "redwood_bow",
+            "count": 16
+        },
+        {
+            "name": "arcane_bow",
+            "count": 16
+        },
+        {
+            "name": "beast_hood",
+            "count": 48
+        },
+        {
+            "name": "beast_tunic",
+            "count": 48
+        },
+        {
+            "name": "beast_chaps",
+            "count": 48
+        },
+        {
+            "name": "beast_bracers",
+            "count": 48
+        },
+        {
+            "name": "beast_boots",
+            "count": 48
+        }
+    ],
+    "archery_range 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "arcane_crossbow",
+            "count": 60
+        },
+        {
+            "name": "arcane_bow",
+            "count": 40
+        },
+        {
+            "name": "umbral_hood",
+            "count": 40
+        },
+        {
+            "name": "umbral_tunic",
+            "count": 40
+        },
+        {
+            "name": "umbral_chaps",
+            "count": 40
+        },
+        {
+            "name": "umbral_bracers",
+            "count": 40
+        },
+        {
+            "name": "umbral_boots",
+            "count": 40
+        },
+        {
+            "name": "super_ranged_coffee",
+            "count": 2000
+        }
+    ],
+    "armory 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "cheese_helmet",
+            "count": 8
+        },
+        {
+            "name": "cheese_plate_body",
+            "count": 8
+        },
+        {
+            "name": "cheese_plate_legs",
+            "count": 8
+        },
+        {
+            "name": "cheese_gauntlets",
+            "count": 8
+        },
+        {
+            "name": "cheese_boots",
+            "count": 8
+        }
+    ],
+    "armory 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "cheese_helmet",
+            "count": 12
+        },
+        {
+            "name": "verdant_helmet",
+            "count": 12
+        },
+        {
+            "name": "cheese_plate_body",
+            "count": 12
+        },
+        {
+            "name": "verdant_plate_body",
+            "count": 12
+        },
+        {
+            "name": "cheese_plate_legs",
+            "count": 12
+        },
+        {
+            "name": "verdant_plate_legs",
+            "count": 12
+        },
+        {
+            "name": "cheese_gauntlets",
+            "count": 12
+        },
+        {
+            "name": "verdant_gauntlets",
+            "count": 12
+        },
+        {
+            "name": "cheese_boots",
+            "count": 12
+        },
+        {
+            "name": "verdant_boots",
+            "count": 12
+        }
+    ],
+    "armory 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "verdant_helmet",
+            "count": 16
+        },
+        {
+            "name": "azure_helmet",
+            "count": 16
+        },
+        {
+            "name": "verdant_plate_body",
+            "count": 16
+        },
+        {
+            "name": "azure_plate_body",
+            "count": 16
+        },
+        {
+            "name": "verdant_plate_legs",
+            "count": 16
+        },
+        {
+            "name": "azure_plate_legs",
+            "count": 16
+        },
+        {
+            "name": "verdant_gauntlets",
+            "count": 16
+        },
+        {
+            "name": "azure_gauntlets",
+            "count": 16
+        },
+        {
+            "name": "verdant_boots",
+            "count": 16
+        },
+        {
+            "name": "azure_boots",
+            "count": 16
+        }
+    ],
+    "armory 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "azure_helmet",
+            "count": 20
+        },
+        {
+            "name": "burble_helmet",
+            "count": 20
+        },
+        {
+            "name": "azure_plate_body",
+            "count": 20
+        },
+        {
+            "name": "burble_plate_body",
+            "count": 20
+        },
+        {
+            "name": "azure_plate_legs",
+            "count": 20
+        },
+        {
+            "name": "burble_plate_legs",
+            "count": 20
+        },
+        {
+            "name": "azure_gauntlets",
+            "count": 20
+        },
+        {
+            "name": "burble_gauntlets",
+            "count": 20
+        },
+        {
+            "name": "azure_boots",
+            "count": 20
+        },
+        {
+            "name": "burble_boots",
+            "count": 20
+        },
+        {
+            "name": "defense_coffee",
+            "count": 1000
+        }
+    ],
+    "armory 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "burble_helmet",
+            "count": 24
+        },
+        {
+            "name": "crimson_helmet",
+            "count": 24
+        },
+        {
+            "name": "burble_plate_body",
+            "count": 24
+        },
+        {
+            "name": "crimson_plate_body",
+            "count": 24
+        },
+        {
+            "name": "burble_plate_legs",
+            "count": 24
+        },
+        {
+            "name": "crimson_plate_legs",
+            "count": 24
+        },
+        {
+            "name": "burble_gauntlets",
+            "count": 24
+        },
+        {
+            "name": "crimson_gauntlets",
+            "count": 24
+        },
+        {
+            "name": "burble_boots",
+            "count": 24
+        },
+        {
+            "name": "crimson_boots",
+            "count": 24
+        }
+    ],
+    "armory 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "crimson_helmet",
+            "count": 28
+        },
+        {
+            "name": "rainbow_helmet",
+            "count": 28
+        },
+        {
+            "name": "crimson_plate_body",
+            "count": 28
+        },
+        {
+            "name": "rainbow_plate_body",
+            "count": 28
+        },
+        {
+            "name": "crimson_plate_legs",
+            "count": 28
+        },
+        {
+            "name": "rainbow_plate_legs",
+            "count": 28
+        },
+        {
+            "name": "crimson_gauntlets",
+            "count": 28
+        },
+        {
+            "name": "rainbow_gauntlets",
+            "count": 28
+        },
+        {
+            "name": "crimson_boots",
+            "count": 28
+        },
+        {
+            "name": "rainbow_boots",
+            "count": 28
+        }
+    ],
+    "armory 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "rainbow_helmet",
+            "count": 32
+        },
+        {
+            "name": "holy_helmet",
+            "count": 32
+        },
+        {
+            "name": "rainbow_plate_body",
+            "count": 32
+        },
+        {
+            "name": "holy_plate_body",
+            "count": 32
+        },
+        {
+            "name": "rainbow_plate_legs",
+            "count": 32
+        },
+        {
+            "name": "holy_plate_legs",
+            "count": 32
+        },
+        {
+            "name": "rainbow_gauntlets",
+            "count": 32
+        },
+        {
+            "name": "holy_gauntlets",
+            "count": 32
+        },
+        {
+            "name": "rainbow_boots",
+            "count": 32
+        },
+        {
+            "name": "holy_boots",
+            "count": 32
+        }
+    ],
+    "armory 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "holy_helmet",
+            "count": 80
+        },
+        {
+            "name": "holy_plate_body",
+            "count": 80
+        },
+        {
+            "name": "holy_plate_legs",
+            "count": 80
+        },
+        {
+            "name": "holy_gauntlets",
+            "count": 80
+        },
+        {
+            "name": "holy_boots",
+            "count": 80
+        },
+        {
+            "name": "super_defense_coffee",
+            "count": 2000
+        }
+    ],
+    "brewery 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "green_tea_leaf",
+            "count": 300
+        },
+        {
+            "name": "arabica_coffee_bean",
+            "count": 300
+        },
+        {
+            "name": "cheese_pot",
+            "count": 6
+        }
+    ],
+    "brewery 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "green_tea_leaf",
+            "count": 600
+        },
+        {
+            "name": "black_tea_leaf",
+            "count": 600
+        },
+        {
+            "name": "arabica_coffee_bean",
+            "count": 600
+        },
+        {
+            "name": "robusta_coffee_bean",
+            "count": 600
+        },
+        {
+            "name": "cheese_pot",
+            "count": 9
+        },
+        {
+            "name": "verdant_pot",
+            "count": 9
+        }
+    ],
+    "brewery 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "black_tea_leaf",
+            "count": 2400
+        },
+        {
+            "name": "robusta_coffee_bean",
+            "count": 2400
+        },
+        {
+            "name": "verdant_pot",
+            "count": 12
+        },
+        {
+            "name": "azure_pot",
+            "count": 12
+        }
+    ],
+    "brewery 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "black_tea_leaf",
+            "count": 2400
+        },
+        {
+            "name": "burble_tea_leaf",
+            "count": 2400
+        },
+        {
+            "name": "robusta_coffee_bean",
+            "count": 2400
+        },
+        {
+            "name": "liberica_coffee_bean",
+            "count": 2400
+        },
+        {
+            "name": "azure_pot",
+            "count": 15
+        },
+        {
+            "name": "burble_pot",
+            "count": 15
+        },
+        {
+            "name": "brewing_tea",
+            "count": 1000
+        }
+    ],
+    "brewery 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "burble_tea_leaf",
+            "count": 4800
+        },
+        {
+            "name": "moolong_tea_leaf",
+            "count": 4800
+        },
+        {
+            "name": "liberica_coffee_bean",
+            "count": 4800
+        },
+        {
+            "name": "excelsa_coffee_bean",
+            "count": 4800
+        },
+        {
+            "name": "burble_pot",
+            "count": 18
+        },
+        {
+            "name": "crimson_pot",
+            "count": 18
+        }
+    ],
+    "brewery 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "moolong_tea_leaf",
+            "count": 9600
+        },
+        {
+            "name": "red_tea_leaf",
+            "count": 9600
+        },
+        {
+            "name": "excelsa_coffee_bean",
+            "count": 9600
+        },
+        {
+            "name": "fieriosa_coffee_bean",
+            "count": 9600
+        },
+        {
+            "name": "crimson_pot",
+            "count": 21
+        },
+        {
+            "name": "rainbow_pot",
+            "count": 21
+        }
+    ],
+    "brewery 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "red_tea_leaf",
+            "count": 19200
+        },
+        {
+            "name": "emp_tea_leaf",
+            "count": 19200
+        },
+        {
+            "name": "fieriosa_coffee_bean",
+            "count": 19200
+        },
+        {
+            "name": "spacia_coffee_bean",
+            "count": 19200
+        },
+        {
+            "name": "rainbow_pot",
+            "count": 24
+        },
+        {
+            "name": "holy_pot",
+            "count": 24
+        }
+    ],
+    "brewery 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "emp_tea_leaf",
+            "count": 48000
+        },
+        {
+            "name": "spacia_coffee_bean",
+            "count": 48000
+        },
+        {
+            "name": "holy_pot",
+            "count": 60
+        },
+        {
+            "name": "super_brewing_tea",
+            "count": 2000
+        }
+    ],
+    "dairy_barn 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "milk",
+            "count": 1500
+        },
+        {
+            "name": "cheese_brush",
+            "count": 6
+        }
+    ],
+    "dairy_barn 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "milk",
+            "count": 3000
+        },
+        {
+            "name": "verdant_milk",
+            "count": 3000
+        },
+        {
+            "name": "cheese_brush",
+            "count": 9
+        },
+        {
+            "name": "verdant_brush",
+            "count": 9
+        }
+    ],
+    "dairy_barn 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "verdant_milk",
+            "count": 6000
+        },
+        {
+            "name": "azure_milk",
+            "count": 6000
+        },
+        {
+            "name": "verdant_brush",
+            "count": 12
+        },
+        {
+            "name": "azure_brush",
+            "count": 12
+        }
+    ],
+    "dairy_barn 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "azure_milk",
+            "count": 12000
+        },
+        {
+            "name": "burble_milk",
+            "count": 12000
+        },
+        {
+            "name": "azure_brush",
+            "count": 15
+        },
+        {
+            "name": "burble_brush",
+            "count": 15
+        },
+        {
+            "name": "milking_tea",
+            "count": 1000
+        }
+    ],
+    "dairy_barn 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "burble_milk",
+            "count": 24000
+        },
+        {
+            "name": "crimson_milk",
+            "count": 24000
+        },
+        {
+            "name": "burble_brush",
+            "count": 18
+        },
+        {
+            "name": "crimson_brush",
+            "count": 18
+        }
+    ],
+    "dairy_barn 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "crimson_milk",
+            "count": 48000
+        },
+        {
+            "name": "rainbow_milk",
+            "count": 48000
+        },
+        {
+            "name": "crimson_brush",
+            "count": 21
+        },
+        {
+            "name": "rainbow_brush",
+            "count": 21
+        }
+    ],
+    "dairy_barn 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "rainbow_milk",
+            "count": 96000
+        },
+        {
+            "name": "holy_milk",
+            "count": 96000
+        },
+        {
+            "name": "rainbow_brush",
+            "count": 24
+        },
+        {
+            "name": "holy_brush",
+            "count": 24
+        }
+    ],
+    "dairy_barn 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "holy_milk",
+            "count": 240000
+        },
+        {
+            "name": "holy_brush",
+            "count": 60
+        },
+        {
+            "name": "super_milking_tea",
+            "count": 2000
+        }
+    ],
+    "dining_room 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "donut",
+            "count": 125
+        },
+        {
+            "name": "cupcake",
+            "count": 125
+        },
+        {
+            "name": "small_pouch",
+            "count": 1
+        }
+    ],
+    "dining_room 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "donut",
+            "count": 250
+        },
+        {
+            "name": "blueberry_donut",
+            "count": 250
+        },
+        {
+            "name": "cupcake",
+            "count": 250
+        },
+        {
+            "name": "blueberry_cake",
+            "count": 250
+        },
+        {
+            "name": "small_pouch",
+            "count": 3
+        }
+    ],
+    "dining_room 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "blueberry_donut",
+            "count": 500
+        },
+        {
+            "name": "blackberry_donut",
+            "count": 500
+        },
+        {
+            "name": "blueberry_cake",
+            "count": 500
+        },
+        {
+            "name": "blackberry_cake",
+            "count": 500
+        },
+        {
+            "name": "medium_pouch",
+            "count": 1
+        }
+    ],
+    "dining_room 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "blackberry_donut",
+            "count": 1000
+        },
+        {
+            "name": "strawberry_donut",
+            "count": 1000
+        },
+        {
+            "name": "blackberry_cake",
+            "count": 1000
+        },
+        {
+            "name": "strawberry_cake",
+            "count": 1000
+        },
+        {
+            "name": "medium_pouch",
+            "count": 3
+        },
+        {
+            "name": "stamina_coffee",
+            "count": 1000
+        }
+    ],
+    "dining_room 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "strawberry_donut",
+            "count": 2000
+        },
+        {
+            "name": "mooberry_donut",
+            "count": 2000
+        },
+        {
+            "name": "strawberry_cake",
+            "count": 2000
+        },
+        {
+            "name": "mooberry_cake",
+            "count": 2000
+        },
+        {
+            "name": "large_pouch",
+            "count": 1
+        }
+    ],
+    "dining_room 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "mooberry_donut",
+            "count": 4000
+        },
+        {
+            "name": "marsberry_donut",
+            "count": 4000
+        },
+        {
+            "name": "mooberry_cake",
+            "count": 4000
+        },
+        {
+            "name": "marsberry_cake",
+            "count": 4000
+        },
+        {
+            "name": "large_pouch",
+            "count": 3
+        }
+    ],
+    "dining_room 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "marsberry_donut",
+            "count": 8000
+        },
+        {
+            "name": "spaceberry_donut",
+            "count": 8000
+        },
+        {
+            "name": "marsberry_cake",
+            "count": 8000
+        },
+        {
+            "name": "spaceberry_cake",
+            "count": 8000
+        },
+        {
+            "name": "giant_pouch",
+            "count": 1
+        }
+    ],
+    "dining_room 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "spaceberry_donut",
+            "count": 20000
+        },
+        {
+            "name": "spaceberry_cake",
+            "count": 20000
+        },
+        {
+            "name": "giant_pouch",
+            "count": 3
+        },
+        {
+            "name": "super_stamina_coffee",
+            "count": 2000
+        }
+    ],
+    "dojo 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "cheese_spear",
+            "count": 16
+        },
+        {
+            "name": "cheese_sword",
+            "count": 8
+        }
+    ],
+    "dojo 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "cheese_spear",
+            "count": 24
+        },
+        {
+            "name": "verdant_spear",
+            "count": 24
+        },
+        {
+            "name": "cheese_sword",
+            "count": 12
+        },
+        {
+            "name": "verdant_sword",
+            "count": 12
+        }
+    ],
+    "dojo 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "verdant_spear",
+            "count": 32
+        },
+        {
+            "name": "azure_spear",
+            "count": 32
+        },
+        {
+            "name": "verdant_sword",
+            "count": 16
+        },
+        {
+            "name": "azure_sword",
+            "count": 16
+        }
+    ],
+    "dojo 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "azure_spear",
+            "count": 40
+        },
+        {
+            "name": "burble_spear",
+            "count": 40
+        },
+        {
+            "name": "azure_sword",
+            "count": 20
+        },
+        {
+            "name": "burble_sword",
+            "count": 20
+        },
+        {
+            "name": "attack_coffee",
+            "count": 1000
+        }
+    ],
+    "dojo 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "burble_spear",
+            "count": 48
+        },
+        {
+            "name": "crimson_spear",
+            "count": 48
+        },
+        {
+            "name": "burble_sword",
+            "count": 24
+        },
+        {
+            "name": "crimson_sword",
+            "count": 24
+        }
+    ],
+    "dojo 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "crimson_spear",
+            "count": 56
+        },
+        {
+            "name": "rainbow_spear",
+            "count": 56
+        },
+        {
+            "name": "crimson_sword",
+            "count": 28
+        },
+        {
+            "name": "rainbow_sword",
+            "count": 28
+        }
+    ],
+    "dojo 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "rainbow_spear",
+            "count": 64
+        },
+        {
+            "name": "holy_spear",
+            "count": 64
+        },
+        {
+            "name": "rainbow_sword",
+            "count": 32
+        },
+        {
+            "name": "holy_sword",
+            "count": 32
+        }
+    ],
+    "dojo 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "holy_spear",
+            "count": 160
+        },
+        {
+            "name": "holy_sword",
+            "count": 80
+        },
+        {
+            "name": "super_attack_coffee",
+            "count": 2000
+        }
+    ],
+    "forge 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "cheese",
+            "count": 375
+        },
+        {
+            "name": "cheese_hammer",
+            "count": 6
+        }
+    ],
+    "forge 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "cheese",
+            "count": 750
+        },
+        {
+            "name": "verdant_cheese",
+            "count": 750
+        },
+        {
+            "name": "cheese_hammer",
+            "count": 9
+        },
+        {
+            "name": "verdant_hammer",
+            "count": 9
+        }
+    ],
+    "forge 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "verdant_cheese",
+            "count": 1500
+        },
+        {
+            "name": "azure_cheese",
+            "count": 1500
+        },
+        {
+            "name": "verdant_hammer",
+            "count": 12
+        },
+        {
+            "name": "azure_hammer",
+            "count": 12
+        }
+    ],
+    "forge 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "azure_cheese",
+            "count": 3000
+        },
+        {
+            "name": "burble_cheese",
+            "count": 3000
+        },
+        {
+            "name": "azure_hammer",
+            "count": 15
+        },
+        {
+            "name": "burble_hammer",
+            "count": 15
+        },
+        {
+            "name": "cheesesmithing_tea",
+            "count": 1000
+        }
+    ],
+    "forge 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "burble_cheese",
+            "count": 6000
+        },
+        {
+            "name": "crimson_cheese",
+            "count": 6000
+        },
+        {
+            "name": "burble_hammer",
+            "count": 18
+        },
+        {
+            "name": "crimson_hammer",
+            "count": 18
+        }
+    ],
+    "forge 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "crimson_cheese",
+            "count": 12000
+        },
+        {
+            "name": "rainbow_cheese",
+            "count": 12000
+        },
+        {
+            "name": "crimson_hammer",
+            "count": 21
+        },
+        {
+            "name": "rainbow_hammer",
+            "count": 21
+        }
+    ],
+    "forge 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "rainbow_cheese",
+            "count": 24000
+        },
+        {
+            "name": "holy_cheese",
+            "count": 24000
+        },
+        {
+            "name": "rainbow_hammer",
+            "count": 24
+        },
+        {
+            "name": "holy_hammer",
+            "count": 24
+        }
+    ],
+    "forge 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "holy_cheese",
+            "count": 60000
+        },
+        {
+            "name": "holy_hammer",
+            "count": 60
+        },
+        {
+            "name": "super_cheesesmithing_tea",
+            "count": 2000
+        }
+    ],
+    "garden 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "egg",
+            "count": 500
+        },
+        {
+            "name": "wheat",
+            "count": 500
+        },
+        {
+            "name": "cotton",
+            "count": 750
+        },
+        {
+            "name": "cheese_shears",
+            "count": 6
+        }
+    ],
+    "garden 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "egg",
+            "count": 1000
+        },
+        {
+            "name": "blueberry",
+            "count": 1000
+        },
+        {
+            "name": "wheat",
+            "count": 1000
+        },
+        {
+            "name": "apple",
+            "count": 500
+        },
+        {
+            "name": "cotton",
+            "count": 1500
+        },
+        {
+            "name": "flax",
+            "count": 1500
+        },
+        {
+            "name": "cheese_shears",
+            "count": 9
+        },
+        {
+            "name": "verdant_shears",
+            "count": 9
+        }
+    ],
+    "garden 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "blueberry",
+            "count": 2000
+        },
+        {
+            "name": "blackberry",
+            "count": 2000
+        },
+        {
+            "name": "apple",
+            "count": 1000
+        },
+        {
+            "name": "orange",
+            "count": 1000
+        },
+        {
+            "name": "flax",
+            "count": 6000
+        },
+        {
+            "name": "verdant_shears",
+            "count": 12
+        },
+        {
+            "name": "azure_shears",
+            "count": 12
+        }
+    ],
+    "garden 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "blackberry",
+            "count": 4000
+        },
+        {
+            "name": "strawberry",
+            "count": 4000
+        },
+        {
+            "name": "orange",
+            "count": 2000
+        },
+        {
+            "name": "plum",
+            "count": 2000
+        },
+        {
+            "name": "flax",
+            "count": 6000
+        },
+        {
+            "name": "bamboo_branch",
+            "count": 6000
+        },
+        {
+            "name": "azure_shears",
+            "count": 15
+        },
+        {
+            "name": "burble_shears",
+            "count": 15
+        },
+        {
+            "name": "foraging_tea",
+            "count": 1000
+        }
+    ],
+    "garden 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "strawberry",
+            "count": 8000
+        },
+        {
+            "name": "mooberry",
+            "count": 8000
+        },
+        {
+            "name": "plum",
+            "count": 4000
+        },
+        {
+            "name": "peach",
+            "count": 4000
+        },
+        {
+            "name": "bamboo_branch",
+            "count": 24000
+        },
+        {
+            "name": "burble_shears",
+            "count": 18
+        },
+        {
+            "name": "crimson_shears",
+            "count": 18
+        }
+    ],
+    "garden 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "mooberry",
+            "count": 16000
+        },
+        {
+            "name": "marsberry",
+            "count": 16000
+        },
+        {
+            "name": "peach",
+            "count": 8000
+        },
+        {
+            "name": "dragon_fruit",
+            "count": 8000
+        },
+        {
+            "name": "bamboo_branch",
+            "count": 24000
+        },
+        {
+            "name": "cocoon",
+            "count": 24000
+        },
+        {
+            "name": "crimson_shears",
+            "count": 21
+        },
+        {
+            "name": "rainbow_shears",
+            "count": 21
+        }
+    ],
+    "garden 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "marsberry",
+            "count": 32000
+        },
+        {
+            "name": "spaceberry",
+            "count": 32000
+        },
+        {
+            "name": "dragon_fruit",
+            "count": 16000
+        },
+        {
+            "name": "star_fruit",
+            "count": 16000
+        },
+        {
+            "name": "cocoon",
+            "count": 48000
+        },
+        {
+            "name": "radiant_fiber",
+            "count": 48000
+        },
+        {
+            "name": "rainbow_shears",
+            "count": 24
+        },
+        {
+            "name": "holy_shears",
+            "count": 24
+        }
+    ],
+    "garden 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "spaceberry",
+            "count": 80000
+        },
+        {
+            "name": "star_fruit",
+            "count": 40000
+        },
+        {
+            "name": "radiant_fiber",
+            "count": 120000
+        },
+        {
+            "name": "holy_shears",
+            "count": 60
+        },
+        {
+            "name": "super_foraging_tea",
+            "count": 2000
+        }
+    ],
+    "gym 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "cheese_mace",
+            "count": 16
+        },
+        {
+            "name": "cheese_sword",
+            "count": 8
+        }
+    ],
+    "gym 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "cheese_mace",
+            "count": 24
+        },
+        {
+            "name": "verdant_mace",
+            "count": 24
+        },
+        {
+            "name": "cheese_sword",
+            "count": 12
+        },
+        {
+            "name": "verdant_sword",
+            "count": 12
+        }
+    ],
+    "gym 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "verdant_mace",
+            "count": 32
+        },
+        {
+            "name": "azure_mace",
+            "count": 32
+        },
+        {
+            "name": "verdant_sword",
+            "count": 16
+        },
+        {
+            "name": "azure_sword",
+            "count": 16
+        }
+    ],
+    "gym 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "azure_mace",
+            "count": 40
+        },
+        {
+            "name": "burble_mace",
+            "count": 40
+        },
+        {
+            "name": "azure_sword",
+            "count": 20
+        },
+        {
+            "name": "burble_sword",
+            "count": 20
+        },
+        {
+            "name": "power_coffee",
+            "count": 1000
+        }
+    ],
+    "gym 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "burble_mace",
+            "count": 48
+        },
+        {
+            "name": "crimson_mace",
+            "count": 48
+        },
+        {
+            "name": "burble_sword",
+            "count": 24
+        },
+        {
+            "name": "crimson_sword",
+            "count": 24
+        }
+    ],
+    "gym 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "crimson_mace",
+            "count": 56
+        },
+        {
+            "name": "rainbow_mace",
+            "count": 56
+        },
+        {
+            "name": "crimson_sword",
+            "count": 28
+        },
+        {
+            "name": "rainbow_sword",
+            "count": 28
+        }
+    ],
+    "gym 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "rainbow_mace",
+            "count": 64
+        },
+        {
+            "name": "holy_mace",
+            "count": 64
+        },
+        {
+            "name": "rainbow_sword",
+            "count": 32
+        },
+        {
+            "name": "holy_sword",
+            "count": 32
+        }
+    ],
+    "gym 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "holy_mace",
+            "count": 160
+        },
+        {
+            "name": "holy_sword",
+            "count": 80
+        },
+        {
+            "name": "super_power_coffee",
+            "count": 2000
+        }
+    ],
+    "kitchen 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "sugar",
+            "count": 2000
+        },
+        {
+            "name": "egg",
+            "count": 500
+        },
+        {
+            "name": "wheat",
+            "count": 500
+        },
+        {
+            "name": "cheese_spatula",
+            "count": 6
+        }
+    ],
+    "kitchen 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "sugar",
+            "count": 8000
+        },
+        {
+            "name": "egg",
+            "count": 1000
+        },
+        {
+            "name": "blueberry",
+            "count": 1000
+        },
+        {
+            "name": "wheat",
+            "count": 1000
+        },
+        {
+            "name": "apple",
+            "count": 500
+        },
+        {
+            "name": "cheese_spatula",
+            "count": 9
+        },
+        {
+            "name": "verdant_spatula",
+            "count": 9
+        }
+    ],
+    "kitchen 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "sugar",
+            "count": 20000
+        },
+        {
+            "name": "blueberry",
+            "count": 2000
+        },
+        {
+            "name": "blackberry",
+            "count": 2000
+        },
+        {
+            "name": "apple",
+            "count": 1000
+        },
+        {
+            "name": "orange",
+            "count": 1000
+        },
+        {
+            "name": "verdant_spatula",
+            "count": 12
+        },
+        {
+            "name": "azure_spatula",
+            "count": 12
+        }
+    ],
+    "kitchen 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "sugar",
+            "count": 48000
+        },
+        {
+            "name": "blackberry",
+            "count": 4000
+        },
+        {
+            "name": "strawberry",
+            "count": 4000
+        },
+        {
+            "name": "orange",
+            "count": 2000
+        },
+        {
+            "name": "plum",
+            "count": 2000
+        },
+        {
+            "name": "azure_spatula",
+            "count": 15
+        },
+        {
+            "name": "burble_spatula",
+            "count": 15
+        },
+        {
+            "name": "cooking_tea",
+            "count": 1000
+        }
+    ],
+    "kitchen 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "sugar",
+            "count": 100000
+        },
+        {
+            "name": "strawberry",
+            "count": 8000
+        },
+        {
+            "name": "mooberry",
+            "count": 8000
+        },
+        {
+            "name": "plum",
+            "count": 4000
+        },
+        {
+            "name": "peach",
+            "count": 4000
+        },
+        {
+            "name": "burble_spatula",
+            "count": 18
+        },
+        {
+            "name": "crimson_spatula",
+            "count": 18
+        }
+    ],
+    "kitchen 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "sugar",
+            "count": 200000
+        },
+        {
+            "name": "mooberry",
+            "count": 16000
+        },
+        {
+            "name": "marsberry",
+            "count": 16000
+        },
+        {
+            "name": "peach",
+            "count": 8000
+        },
+        {
+            "name": "dragon_fruit",
+            "count": 8000
+        },
+        {
+            "name": "crimson_spatula",
+            "count": 21
+        },
+        {
+            "name": "rainbow_spatula",
+            "count": 21
+        }
+    ],
+    "kitchen 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "sugar",
+            "count": 360000
+        },
+        {
+            "name": "marsberry",
+            "count": 32000
+        },
+        {
+            "name": "spaceberry",
+            "count": 32000
+        },
+        {
+            "name": "dragon_fruit",
+            "count": 16000
+        },
+        {
+            "name": "star_fruit",
+            "count": 16000
+        },
+        {
+            "name": "rainbow_spatula",
+            "count": 24
+        },
+        {
+            "name": "holy_spatula",
+            "count": 24
+        }
+    ],
+    "kitchen 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "sugar",
+            "count": 640000
+        },
+        {
+            "name": "spaceberry",
+            "count": 80000
+        },
+        {
+            "name": "star_fruit",
+            "count": 40000
+        },
+        {
+            "name": "holy_spatula",
+            "count": 60
+        },
+        {
+            "name": "super_cooking_tea",
+            "count": 2000
+        }
+    ],
+    "laboratory 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "swamp_essence",
+            "count": 750
+        },
+        {
+            "name": "cheese_enhancer",
+            "count": 6
+        }
+    ],
+    "laboratory 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "swamp_essence",
+            "count": 1500
+        },
+        {
+            "name": "aqua_essence",
+            "count": 1500
+        },
+        {
+            "name": "cheese_enhancer",
+            "count": 9
+        },
+        {
+            "name": "verdant_enhancer",
+            "count": 9
+        }
+    ],
+    "laboratory 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "aqua_essence",
+            "count": 3000
+        },
+        {
+            "name": "jungle_essence",
+            "count": 3000
+        },
+        {
+            "name": "verdant_enhancer",
+            "count": 12
+        },
+        {
+            "name": "azure_enhancer",
+            "count": 12
+        }
+    ],
+    "laboratory 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "jungle_essence",
+            "count": 6000
+        },
+        {
+            "name": "gobo_essence",
+            "count": 6000
+        },
+        {
+            "name": "azure_enhancer",
+            "count": 15
+        },
+        {
+            "name": "burble_enhancer",
+            "count": 15
+        },
+        {
+            "name": "enhancing_tea",
+            "count": 1000
+        }
+    ],
+    "laboratory 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "gobo_essence",
+            "count": 12000
+        },
+        {
+            "name": "eyessence",
+            "count": 12000
+        },
+        {
+            "name": "burble_enhancer",
+            "count": 18
+        },
+        {
+            "name": "crimson_enhancer",
+            "count": 18
+        }
+    ],
+    "laboratory 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "eyessence",
+            "count": 24000
+        },
+        {
+            "name": "sorcerer_essence",
+            "count": 24000
+        },
+        {
+            "name": "crimson_enhancer",
+            "count": 21
+        },
+        {
+            "name": "rainbow_enhancer",
+            "count": 21
+        }
+    ],
+    "laboratory 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "sorcerer_essence",
+            "count": 48000
+        },
+        {
+            "name": "bear_essence",
+            "count": 48000
+        },
+        {
+            "name": "rainbow_enhancer",
+            "count": 24
+        },
+        {
+            "name": "holy_enhancer",
+            "count": 24
+        }
+    ],
+    "laboratory 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "bear_essence",
+            "count": 120000
+        },
+        {
+            "name": "holy_enhancer",
+            "count": 60
+        },
+        {
+            "name": "super_enhancing_tea",
+            "count": 2000
+        }
+    ],
+    "library 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "gummy",
+            "count": 250
+        },
+        {
+            "name": "yogurt",
+            "count": 250
+        },
+        {
+            "name": "poke",
+            "count": 2
+        },
+        {
+            "name": "scratch",
+            "count": 2
+        },
+        {
+            "name": "smack",
+            "count": 2
+        }
+    ],
+    "library 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "gummy",
+            "count": 500
+        },
+        {
+            "name": "apple_gummy",
+            "count": 250
+        },
+        {
+            "name": "yogurt",
+            "count": 500
+        },
+        {
+            "name": "apple_yogurt",
+            "count": 250
+        },
+        {
+            "name": "quick_shot",
+            "count": 2
+        },
+        {
+            "name": "water_strike",
+            "count": 2
+        },
+        {
+            "name": "entangle",
+            "count": 2
+        },
+        {
+            "name": "fireball",
+            "count": 2
+        }
+    ],
+    "library 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "apple_gummy",
+            "count": 500
+        },
+        {
+            "name": "orange_gummy",
+            "count": 500
+        },
+        {
+            "name": "apple_yogurt",
+            "count": 500
+        },
+        {
+            "name": "orange_yogurt",
+            "count": 500
+        },
+        {
+            "name": "toughness",
+            "count": 2
+        },
+        {
+            "name": "precision",
+            "count": 2
+        }
+    ],
+    "library 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "orange_gummy",
+            "count": 1000
+        },
+        {
+            "name": "plum_gummy",
+            "count": 1000
+        },
+        {
+            "name": "orange_yogurt",
+            "count": 1000
+        },
+        {
+            "name": "plum_yogurt",
+            "count": 1000
+        },
+        {
+            "name": "pierce",
+            "count": 2
+        },
+        {
+            "name": "cleave",
+            "count": 2
+        },
+        {
+            "name": "sweep",
+            "count": 2
+        },
+        {
+            "name": "intelligence_coffee",
+            "count": 1000
+        }
+    ],
+    "library 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "plum_gummy",
+            "count": 2000
+        },
+        {
+            "name": "peach_gummy",
+            "count": 2000
+        },
+        {
+            "name": "plum_yogurt",
+            "count": 2000
+        },
+        {
+            "name": "peach_yogurt",
+            "count": 2000
+        },
+        {
+            "name": "rain_of_arrows",
+            "count": 2
+        },
+        {
+            "name": "ice_spear",
+            "count": 2
+        },
+        {
+            "name": "flame_blast",
+            "count": 2
+        },
+        {
+            "name": "toxic_pollen",
+            "count": 2
+        }
+    ],
+    "library 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "peach_gummy",
+            "count": 4000
+        },
+        {
+            "name": "dragon_fruit_gummy",
+            "count": 4000
+        },
+        {
+            "name": "peach_yogurt",
+            "count": 4000
+        },
+        {
+            "name": "dragon_fruit_yogurt",
+            "count": 4000
+        },
+        {
+            "name": "berserk",
+            "count": 2
+        },
+        {
+            "name": "frenzy",
+            "count": 2
+        },
+        {
+            "name": "elemental_affinity",
+            "count": 2
+        }
+    ],
+    "library 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "dragon_fruit_gummy",
+            "count": 8000
+        },
+        {
+            "name": "star_fruit_gummy",
+            "count": 8000
+        },
+        {
+            "name": "dragon_fruit_yogurt",
+            "count": 8000
+        },
+        {
+            "name": "star_fruit_yogurt",
+            "count": 8000
+        },
+        {
+            "name": "puncture",
+            "count": 2
+        },
+        {
+            "name": "maim",
+            "count": 2
+        },
+        {
+            "name": "stunning_blow",
+            "count": 2
+        }
+    ],
+    "library 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "star_fruit_gummy",
+            "count": 20000
+        },
+        {
+            "name": "star_fruit_yogurt",
+            "count": 20000
+        },
+        {
+            "name": "silencing_shot",
+            "count": 2
+        },
+        {
+            "name": "frost_surge",
+            "count": 2
+        },
+        {
+            "name": "natures_veil",
+            "count": 2
+        },
+        {
+            "name": "firestorm",
+            "count": 2
+        },
+        {
+            "name": "super_intelligence_coffee",
+            "count": 2000
+        }
+    ],
+    "log_shed 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "log",
+            "count": 1500
+        },
+        {
+            "name": "cheese_hatchet",
+            "count": 6
+        }
+    ],
+    "log_shed 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "log",
+            "count": 3000
+        },
+        {
+            "name": "birch_log",
+            "count": 3000
+        },
+        {
+            "name": "cheese_hatchet",
+            "count": 9
+        },
+        {
+            "name": "verdant_hatchet",
+            "count": 9
+        }
+    ],
+    "log_shed 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "birch_log",
+            "count": 6000
+        },
+        {
+            "name": "cedar_log",
+            "count": 6000
+        },
+        {
+            "name": "verdant_hatchet",
+            "count": 12
+        },
+        {
+            "name": "azure_hatchet",
+            "count": 12
+        }
+    ],
+    "log_shed 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "cedar_log",
+            "count": 12000
+        },
+        {
+            "name": "purpleheart_log",
+            "count": 12000
+        },
+        {
+            "name": "azure_hatchet",
+            "count": 15
+        },
+        {
+            "name": "burble_hatchet",
+            "count": 15
+        },
+        {
+            "name": "woodcutting_tea",
+            "count": 1000
+        }
+    ],
+    "log_shed 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "purpleheart_log",
+            "count": 24000
+        },
+        {
+            "name": "ginkgo_log",
+            "count": 24000
+        },
+        {
+            "name": "burble_hatchet",
+            "count": 18
+        },
+        {
+            "name": "crimson_hatchet",
+            "count": 18
+        }
+    ],
+    "log_shed 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "ginkgo_log",
+            "count": 48000
+        },
+        {
+            "name": "redwood_log",
+            "count": 48000
+        },
+        {
+            "name": "crimson_hatchet",
+            "count": 21
+        },
+        {
+            "name": "rainbow_hatchet",
+            "count": 21
+        }
+    ],
+    "log_shed 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "redwood_log",
+            "count": 96000
+        },
+        {
+            "name": "arcane_log",
+            "count": 96000
+        },
+        {
+            "name": "rainbow_hatchet",
+            "count": 24
+        },
+        {
+            "name": "holy_hatchet",
+            "count": 24
+        }
+    ],
+    "log_shed 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "arcane_log",
+            "count": 240000
+        },
+        {
+            "name": "holy_hatchet",
+            "count": 60
+        },
+        {
+            "name": "super_woodcutting_tea",
+            "count": 2000
+        }
+    ],
+    "mystical_study 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "wooden_water_staff",
+            "count": 4
+        },
+        {
+            "name": "wooden_nature_staff",
+            "count": 4
+        },
+        {
+            "name": "wooden_fire_staff",
+            "count": 4
+        },
+        {
+            "name": "cotton_hat",
+            "count": 4
+        },
+        {
+            "name": "cotton_robe_top",
+            "count": 4
+        },
+        {
+            "name": "cotton_robe_bottoms",
+            "count": 4
+        },
+        {
+            "name": "cotton_gloves",
+            "count": 4
+        },
+        {
+            "name": "cotton_boots",
+            "count": 4
+        }
+    ],
+    "mystical_study 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "wooden_water_staff",
+            "count": 6
+        },
+        {
+            "name": "birch_water_staff",
+            "count": 6
+        },
+        {
+            "name": "wooden_nature_staff",
+            "count": 6
+        },
+        {
+            "name": "birch_nature_staff",
+            "count": 6
+        },
+        {
+            "name": "wooden_fire_staff",
+            "count": 6
+        },
+        {
+            "name": "birch_fire_staff",
+            "count": 6
+        },
+        {
+            "name": "linen_hat",
+            "count": 8
+        },
+        {
+            "name": "linen_robe_top",
+            "count": 8
+        },
+        {
+            "name": "linen_robe_bottoms",
+            "count": 8
+        },
+        {
+            "name": "linen_gloves",
+            "count": 8
+        },
+        {
+            "name": "linen_boots",
+            "count": 8
+        }
+    ],
+    "mystical_study 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "birch_water_staff",
+            "count": 8
+        },
+        {
+            "name": "cedar_water_staff",
+            "count": 8
+        },
+        {
+            "name": "birch_nature_staff",
+            "count": 8
+        },
+        {
+            "name": "cedar_nature_staff",
+            "count": 8
+        },
+        {
+            "name": "birch_fire_staff",
+            "count": 8
+        },
+        {
+            "name": "cedar_fire_staff",
+            "count": 8
+        },
+        {
+            "name": "linen_hat",
+            "count": 16
+        },
+        {
+            "name": "linen_robe_top",
+            "count": 16
+        },
+        {
+            "name": "linen_robe_bottoms",
+            "count": 16
+        },
+        {
+            "name": "linen_gloves",
+            "count": 16
+        },
+        {
+            "name": "linen_boots",
+            "count": 16
+        }
+    ],
+    "mystical_study 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "cedar_water_staff",
+            "count": 10
+        },
+        {
+            "name": "purpleheart_water_staff",
+            "count": 10
+        },
+        {
+            "name": "cedar_nature_staff",
+            "count": 10
+        },
+        {
+            "name": "purpleheart_nature_staff",
+            "count": 10
+        },
+        {
+            "name": "cedar_fire_staff",
+            "count": 10
+        },
+        {
+            "name": "purpleheart_fire_staff",
+            "count": 10
+        },
+        {
+            "name": "bamboo_hat",
+            "count": 16
+        },
+        {
+            "name": "bamboo_robe_top",
+            "count": 16
+        },
+        {
+            "name": "bamboo_robe_bottoms",
+            "count": 16
+        },
+        {
+            "name": "bamboo_gloves",
+            "count": 16
+        },
+        {
+            "name": "bamboo_boots",
+            "count": 16
+        },
+        {
+            "name": "magic_coffee",
+            "count": 1000
+        }
+    ],
+    "mystical_study 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "purpleheart_water_staff",
+            "count": 12
+        },
+        {
+            "name": "ginkgo_water_staff",
+            "count": 12
+        },
+        {
+            "name": "purpleheart_nature_staff",
+            "count": 12
+        },
+        {
+            "name": "ginkgo_nature_staff",
+            "count": 12
+        },
+        {
+            "name": "purpleheart_fire_staff",
+            "count": 12
+        },
+        {
+            "name": "ginkgo_fire_staff",
+            "count": 12
+        },
+        {
+            "name": "bamboo_hat",
+            "count": 32
+        },
+        {
+            "name": "bamboo_robe_top",
+            "count": 32
+        },
+        {
+            "name": "bamboo_robe_bottoms",
+            "count": 32
+        },
+        {
+            "name": "bamboo_gloves",
+            "count": 32
+        },
+        {
+            "name": "bamboo_boots",
+            "count": 32
+        }
+    ],
+    "mystical_study 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "ginkgo_water_staff",
+            "count": 14
+        },
+        {
+            "name": "redwood_water_staff",
+            "count": 14
+        },
+        {
+            "name": "ginkgo_nature_staff",
+            "count": 14
+        },
+        {
+            "name": "redwood_nature_staff",
+            "count": 14
+        },
+        {
+            "name": "ginkgo_fire_staff",
+            "count": 14
+        },
+        {
+            "name": "redwood_fire_staff",
+            "count": 14
+        },
+        {
+            "name": "silk_hat",
+            "count": 24
+        },
+        {
+            "name": "silk_robe_top",
+            "count": 24
+        },
+        {
+            "name": "silk_robe_bottoms",
+            "count": 24
+        },
+        {
+            "name": "silk_gloves",
+            "count": 24
+        },
+        {
+            "name": "silk_boots",
+            "count": 24
+        }
+    ],
+    "mystical_study 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "redwood_water_staff",
+            "count": 16
+        },
+        {
+            "name": "arcane_water_staff",
+            "count": 16
+        },
+        {
+            "name": "redwood_nature_staff",
+            "count": 16
+        },
+        {
+            "name": "arcane_nature_staff",
+            "count": 16
+        },
+        {
+            "name": "redwood_fire_staff",
+            "count": 16
+        },
+        {
+            "name": "arcane_fire_staff",
+            "count": 16
+        },
+        {
+            "name": "silk_hat",
+            "count": 48
+        },
+        {
+            "name": "silk_robe_top",
+            "count": 48
+        },
+        {
+            "name": "silk_robe_bottoms",
+            "count": 48
+        },
+        {
+            "name": "silk_gloves",
+            "count": 48
+        },
+        {
+            "name": "silk_boots",
+            "count": 48
+        }
+    ],
+    "mystical_study 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "arcane_water_staff",
+            "count": 40
+        },
+        {
+            "name": "arcane_nature_staff",
+            "count": 40
+        },
+        {
+            "name": "arcane_fire_staff",
+            "count": 40
+        },
+        {
+            "name": "radiant_hat",
+            "count": 40
+        },
+        {
+            "name": "radiant_robe_top",
+            "count": 40
+        },
+        {
+            "name": "radiant_robe_bottoms",
+            "count": 40
+        },
+        {
+            "name": "radiant_gloves",
+            "count": 40
+        },
+        {
+            "name": "radiant_boots",
+            "count": 40
+        },
+        {
+            "name": "super_magic_coffee",
+            "count": 2000
+        }
+    ],
+    "sewing_parlor 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 75
+        },
+        {
+            "name": "rough_leather",
+            "count": 180
+        },
+        {
+            "name": "cotton_fabric",
+            "count": 180
+        },
+        {
+            "name": "cheese_needle",
+            "count": 6
+        }
+    ],
+    "sewing_parlor 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 150
+        },
+        {
+            "name": "birch_lumber",
+            "count": 150
+        },
+        {
+            "name": "rough_leather",
+            "count": 360
+        },
+        {
+            "name": "reptile_leather",
+            "count": 360
+        },
+        {
+            "name": "cotton_fabric",
+            "count": 360
+        },
+        {
+            "name": "linen_fabric",
+            "count": 360
+        },
+        {
+            "name": "cheese_needle",
+            "count": 9
+        },
+        {
+            "name": "verdant_needle",
+            "count": 9
+        }
+    ],
+    "sewing_parlor 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 300
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 300
+        },
+        {
+            "name": "reptile_leather",
+            "count": 1440
+        },
+        {
+            "name": "linen_fabric",
+            "count": 1440
+        },
+        {
+            "name": "verdant_needle",
+            "count": 12
+        },
+        {
+            "name": "azure_needle",
+            "count": 12
+        }
+    ],
+    "sewing_parlor 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 600
+        },
+        {
+            "name": "reptile_leather",
+            "count": 1440
+        },
+        {
+            "name": "gobo_leather",
+            "count": 1440
+        },
+        {
+            "name": "linen_fabric",
+            "count": 1440
+        },
+        {
+            "name": "bamboo_fabric",
+            "count": 1440
+        },
+        {
+            "name": "azure_needle",
+            "count": 15
+        },
+        {
+            "name": "burble_needle",
+            "count": 15
+        },
+        {
+            "name": "tailoring_tea",
+            "count": 1000
+        }
+    ],
+    "sewing_parlor 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 1200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 1200
+        },
+        {
+            "name": "gobo_leather",
+            "count": 5760
+        },
+        {
+            "name": "bamboo_fabric",
+            "count": 5760
+        },
+        {
+            "name": "burble_needle",
+            "count": 18
+        },
+        {
+            "name": "crimson_needle",
+            "count": 18
+        }
+    ],
+    "sewing_parlor 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 2400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 2400
+        },
+        {
+            "name": "gobo_leather",
+            "count": 5760
+        },
+        {
+            "name": "beast_leather",
+            "count": 5760
+        },
+        {
+            "name": "bamboo_fabric",
+            "count": 5760
+        },
+        {
+            "name": "silk_fabric",
+            "count": 5760
+        },
+        {
+            "name": "crimson_needle",
+            "count": 21
+        },
+        {
+            "name": "rainbow_needle",
+            "count": 21
+        }
+    ],
+    "sewing_parlor 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 4800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 4800
+        },
+        {
+            "name": "beast_leather",
+            "count": 11520
+        },
+        {
+            "name": "umbral_leather",
+            "count": 11520
+        },
+        {
+            "name": "silk_fabric",
+            "count": 11520
+        },
+        {
+            "name": "radiant_fabric",
+            "count": 11520
+        },
+        {
+            "name": "rainbow_needle",
+            "count": 24
+        },
+        {
+            "name": "holy_needle",
+            "count": 24
+        }
+    ],
+    "sewing_parlor 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 12000
+        },
+        {
+            "name": "umbral_leather",
+            "count": 28800
+        },
+        {
+            "name": "radiant_fabric",
+            "count": 28800
+        },
+        {
+            "name": "holy_needle",
+            "count": 60
+        },
+        {
+            "name": "super_tailoring_tea",
+            "count": 2000
+        }
+    ],
+    "workshop 1": [
+        {
+            "name": "coin",
+            "count": 500000
+        },
+        {
+            "name": "lumber",
+            "count": 450
+        },
+        {
+            "name": "cheese_chisel",
+            "count": 6
+        }
+    ],
+    "workshop 2": [
+        {
+            "name": "coin",
+            "count": 2000000
+        },
+        {
+            "name": "lumber",
+            "count": 900
+        },
+        {
+            "name": "birch_lumber",
+            "count": 900
+        },
+        {
+            "name": "cheese_chisel",
+            "count": 9
+        },
+        {
+            "name": "verdant_chisel",
+            "count": 9
+        }
+    ],
+    "workshop 3": [
+        {
+            "name": "coin",
+            "count": 5000000
+        },
+        {
+            "name": "birch_lumber",
+            "count": 1800
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 1800
+        },
+        {
+            "name": "verdant_chisel",
+            "count": 12
+        },
+        {
+            "name": "azure_chisel",
+            "count": 12
+        }
+    ],
+    "workshop 4": [
+        {
+            "name": "coin",
+            "count": 12000000
+        },
+        {
+            "name": "cedar_lumber",
+            "count": 3600
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 3600
+        },
+        {
+            "name": "azure_chisel",
+            "count": 15
+        },
+        {
+            "name": "burble_chisel",
+            "count": 15
+        },
+        {
+            "name": "crafting_tea",
+            "count": 1000
+        }
+    ],
+    "workshop 5": [
+        {
+            "name": "coin",
+            "count": 25000000
+        },
+        {
+            "name": "purpleheart_lumber",
+            "count": 7200
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 7200
+        },
+        {
+            "name": "burble_chisel",
+            "count": 18
+        },
+        {
+            "name": "crimson_chisel",
+            "count": 18
+        }
+    ],
+    "workshop 6": [
+        {
+            "name": "coin",
+            "count": 50000000
+        },
+        {
+            "name": "ginkgo_lumber",
+            "count": 14400
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 14400
+        },
+        {
+            "name": "crimson_chisel",
+            "count": 21
+        },
+        {
+            "name": "rainbow_chisel",
+            "count": 21
+        }
+    ],
+    "workshop 7": [
+        {
+            "name": "coin",
+            "count": 90000000
+        },
+        {
+            "name": "redwood_lumber",
+            "count": 28800
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 28800
+        },
+        {
+            "name": "rainbow_chisel",
+            "count": 24
+        },
+        {
+            "name": "holy_chisel",
+            "count": 24
+        }
+    ],
+    "workshop 8": [
+        {
+            "name": "coin",
+            "count": 160000000
+        },
+        {
+            "name": "arcane_lumber",
+            "count": 72000
+        },
+        {
+            "name": "holy_chisel",
+            "count": 60
+        },
+        {
+            "name": "super_crafting_tea",
+            "count": 2000
+        }
+    ]
+}
