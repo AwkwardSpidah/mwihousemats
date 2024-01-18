@@ -71,29 +71,34 @@ def build_houses_map(houses):
     return house_names, houses_map
 
 def add_mat_to_dict(mats, mat_name, mat_count):
-    logger.info(f'Adding {mat_name} * {mat_count}')
     if mats.get(mat_name, None) != None:
+        logger.info(f'Incrementing {mat_name} by {mat_count}')
         mats[mat_name] += mat_count
     else:
+        logger.info(f'Adding {mat_name} * {mat_count}')
         mats[mat_name] = mat_count
     return mats
 
 def calc_required_item_mats(needed_mats, all_mats, item, count):
-    logger.info(f'calc_required_item_mats for {item}')
+    logger.info(f'Req calcing for {item} * {count}')
     item_data = all_mats.get(item, None)
+    logger.info(item_data)
     if item_data != None:
         if item_data['requires'] != '':
             calc_required_item_mats(needed_mats, all_mats, item_data['requires'], count)
         
         for item_mats in item_data['materials']:
+            logger.info('Calcing material: ' + item_mats['name'])
             item_mats_lookup = all_mats.get(item_mats['name'], None)
             if item_mats_lookup != None and item_mats_lookup['requires'] != '':
                 logger.info('Material ' + item_mats['name'] + ' needs ' + item_mats_lookup['requires'])
                 calc_required_item_mats(needed_mats, all_mats, item_mats_lookup['requires'], item_mats['count'])
 
             logger.info('Adding material ' + item_mats['name'])
-            calc_required_item_mats(needed_mats, all_mats, item_mats['name'], item_mats['count'])
-            needed_mats = add_mat_to_dict(needed_mats, item_mats['name'], item_mats['count'] * count)
+            calc_required_item_mats(needed_mats, all_mats, item_mats['name'], item_mats['count'] * count)
+            logger.info('Adding item ' + item_mats['name'] + ' * ' + str(item_mats['count']) + ' * ' + str(count))
+        
+        needed_mats = add_mat_to_dict(needed_mats, item, count)
     else:
         needed_mats = add_mat_to_dict(needed_mats, item, count)
 
@@ -101,48 +106,32 @@ def calc_required_item_mats(needed_mats, all_mats, item, count):
 
 def calc_mats(house, mats, needed_mats):
     for house_mat in house:
+        logger.info('---- House Material ----')
         logger.info('Needs ' + house_mat['name'] + ' * ' + str(house_mat['count']))
         house_mat_data = mats.get(house_mat['name'], None)
         if house_mat_data != None:
             logger.info(house_mat_data)
 
             req_item_mats = calc_required_item_mats(needed_mats, mats, house_mat['name'], house_mat['count'])
-
-            # if house_mat_data['requires'] != '':
-            #     logger.info('Requires: ' + house_mat_data['requires'])
-            #     req_item_mats = calc_required_item_mats({}, mats, house_mat_data['requires'], house_mat['count'])
-            #     logger.info('Back in calc_mats')
-            #     for item_mats_key in req_item_mats:
-            #         needed_mats = add_mat_to_dict(needed_mats, item_mats_key, req_item_mats[item_mats_key] * house_mat['count'])
-            #     needed_mats = add_mat_to_dict(needed_mats, house_mat_data['requires'], house_mat['count'])
-
-            # for item_mats in house_mat_data['materials']:
-            #     logger.info('Adding ' + item_mats['name'])
-            #     needed_mats = add_mat_to_dict(needed_mats, item_mats['name'], item_mats['count'] * house_mat['count'])
-            
-            # needed_mats = add_mat_to_dict(needed_mats, house_mat['name'], house_mat['count'])
         else:
             needed_mats = add_mat_to_dict(needed_mats, house_mat['name'], house_mat['count'])
 
     return needed_mats
-
 
 def calc_house_mats(houses, house_mats, all_mats):
     with open('housemats.csv', 'w') as f:
         out = csv.writer(f)
         out.writerow(['House', 'Material', 'Count'])
         for house_item in houses:
-            for house_level in range(2, 8):
+            for house_level in range(1, 8):
                 house_lookup = f'{house_item} {house_level}'
                 logger.info(f'Doing {house_lookup}')
                 needed_mats = calc_mats(house_mats[house_lookup], all_mats, {})
+                logger.info(needed_mats)
+
 
                 for mat_item in needed_mats:
                     out.writerow([house_lookup, mat_item, needed_mats[mat_item]])
-                break
-            break
-
-
 
 def main():
     raw_mwi_data = load_data('mwidata.json', ['actionDetailMap', 'houseRoomDetailMap'])
