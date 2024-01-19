@@ -121,7 +121,7 @@ def calc_mats(house, mats, needed_mats):
 def calc_house_mats(houses, house_mats, all_mats):
     with open('housemats.csv', 'w') as f:
         out = csv.writer(f)
-        out.writerow(['House', 'Material', 'Count'])
+        out.writerow(['House', 'Level', 'Material', 'Count'])
         for house_item in houses:
             for house_level in range(1, 9):
                 house_lookup = f'{house_item} {house_level}'
@@ -129,9 +129,8 @@ def calc_house_mats(houses, house_mats, all_mats):
                 needed_mats = calc_mats(house_mats[house_lookup], all_mats, {})
                 logger.info(needed_mats)
 
-
                 for mat_item in needed_mats:
-                    out.writerow([house_lookup, mat_item, needed_mats[mat_item]])
+                    out.writerow([house_item, house_level, mat_item, needed_mats[mat_item]])
 
 def main():
     raw_mwi_data = load_data('mwidata.json', ['actionDetailMap', 'houseRoomDetailMap'])
