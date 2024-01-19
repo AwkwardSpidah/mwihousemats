@@ -112,7 +112,7 @@ def calc_mats(house, mats, needed_mats):
         if house_mat_data != None:
             logger.info(house_mat_data)
 
-            req_item_mats = calc_required_item_mats(needed_mats, mats, house_mat['name'], house_mat['count'])
+            needed_mats = calc_required_item_mats(needed_mats, mats, house_mat['name'], house_mat['count'])
         else:
             needed_mats = add_mat_to_dict(needed_mats, house_mat['name'], house_mat['count'])
 
